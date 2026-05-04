@@ -1,0 +1,337 @@
+---
+title: "“It’s about finding your values, and committing to them. It’s about finding your North Star."
+---
+
+# “It’s about finding your values, and committing to them. It’s about finding your North Star.
+
+<div class="article-meta">第 534 篇 · 2015-05-19 07:40:41</div>
+
+<a class="source-link" href="http://nteswjq.blog.163.com/blog/static/1269981201541974041722" target="_blank" rel="noreferrer">原博客链接</a>
+
+http://tech.qq.com/a/20150518/017091.htm
+
+库克毕业典礼演讲：乔布斯让我学会质疑一切(我觉得标题也许应该是找到你自⼰的北⽃星，或者是做对
+
+的事情）
+
+腾讯科技[微博]风帆2015年05月18日09:39分享
+
+[摘要]库克也说了他对苹果的愿景：将强大的技术转变成容易使用的工具。这些工具可帮助人们实现自⼰
+
+的梦想，更好地改变世界。
+
+库克毕业典礼演讲：乔布斯让我学会质疑一切
+
+BI中文站 5月18日报道
+
+苹果首席执行官蒂姆·库克（Tim Cook）周日参加了乔治·华盛顿大学的毕业典礼，并发表了演讲。他的
+
+讲话中谈及正义与不公，以及保持乐观在工作中的重要作用。
+
+库克在演讲期间3次提及马丁·路德·金（M artin Luther King），包括在演讲之初和结尾时。库克称金和
+
+美国前总统约翰·肯尼迪（John F. Kennedy）自⼉时起就是他心中的英雄。库克在美国阿拉巴马州长
+
+大，尽管那里他身边的多数人对金与肯尼迪都不太敬重。
+
+库克发表演讲的地方在华盛顿国家广场，那里距离华盛顿纪念碑不远。华盛顿大学宣称，当时有2.5万人
+
+参加此次毕业典礼，包括6000名毕业生。库克称：“正是在这里，金挑战所有美国人，让民主的观念深
+
+入人心。正是在这里，里根总统号召我们相信自⼰，相信我们能够做出伟业。”
+
+库克还提及自⼰于1977年首次访问华盛顿的事情。当时他只有16岁，刚刚获得征文大赛冠军。在前往美
+
+国首都之前，库克与其他阿拉巴马州的学生曾前往蒙哥马利，并在那里见到时任华盛顿州州长的乔治·华
+
+莱士（George C. W allace）。华莱士在20世纪60年代反对种族隔离制度。库克说：“对于我来说，见
+
+到州长并非一种荣誉。与其握手让我觉得背叛了自⼰的信仰，我感觉不好，好像我出卖了自⼰的灵魂。”
+
+在华盛顿，库克也见到了当时的总统吉米·卡特（Jimmy Carter）。他将卡特与华莱士对比：两人都来
+
+自南方，都是州长或前州长，但他们的价值观却完全不同。库克说：“卡特人很好，有同情心。他从事着
+
+世界上最有权力的工作，但却未牺牲任何人性。”在评价华莱士和卡特时，库克说：“对于我来说，显然
+
+一个是错的，一个是对的。”
+
+库克还称，忠于自⼰的价值观非常重要。他说：“你要找到自⼰的价值观，并忠于它们，就像找到你的北
+
+极星一样。有时候这很容易，有时候却很难，有时候会让你质疑一切。”
+
+在首次访问华盛顿20年后，库克说：“我见到了那个让我质疑一切的人……他就是史蒂夫·乔布斯
+
+（Steve Jobs ）。”乔布斯曾创建苹果公司，后被公司驱逐，但他于1998年又重返陷入困境中的苹果，
+
+库克于此时加入。
+
+库克说：“当时乔布斯还不知道，他会用自⼰的余生来挽救苹果，并带领其走上任何人难以企及的高度。
+
+他对苹果的愿景是：将强大的技术转变成容易使用的工具。这些工具可帮助人们实现自⼰的梦想，更好
+
+地改变世界。”
+
+库克表示，他当时依然忠于自⼰的价值观，但只在工作中坚持它们。他说：“我觉得工作就是工作。在工
+
+作中保持专业性和谦逊态度非常重要。但乔布斯是个理想主义者，他让我相信：如果我们努力工作，制
+
+作出更好产品，我们也能改变世界。我接受了他的邀请，这改变了我的生活。17年来，我从未后悔过。”
+
+库克继续阐述苹果如何保持乐观，以及在这种乐观心态下创造出的产品如何改变世界。他说：“在苹果，
+
+我们相信工作不仅仅是改善我们自⼰的生活，同时也要改善其他人的生活。”
+
+库克举例说明，苹果公司的技术可以帮助盲人实现阅读，可以帮助偏远地区的人联网。而且随着视频曝
+
+光警察的暴力行为，智能手机在社会正义方面发挥更为重要的作用。库克说：“亲眼见到不公的人想要曝
+
+光它，现在他们已经可以做到，因为他们的口袋中随时带着相机。”
+
+库克继续说：“我们相信，一家公司的价值观及其指导下的行为可以真正改变世界。一个人也可以，这个
+
+人可能是你，而且肯定是你。毕业生们，你们的价值观很重要。它们是你们的北极星。你们不必在做得
+
+好和做得很好之间做出选择，这是一个错误的选择。你们面临的挑战是找到工作支付租金、购买美⻝，
+
+让自⼰去做正确的事情。找到你们的北极星，让他指引你去工作和生活。现在，我希望你们中的某些人
+
+不要迷恋于此，毫无疑问人应该有怀疑精神，特别是在华盛顿……健康的怀疑态度非常好，但是太多怀
+
+疑容易让人陷入⽝儒主义。或许那只是我们现在生活的世界，但是对于你们来说，这恰好是你们要改变
+
+的世界。”
+
+在演讲结束前，库克还提及苹果和硅谷的价值观。库克说，在硅谷，人们相信任何问题都能被解决，无
+
+论它有多么困难。这是非常真诚的乐观精神。苹果也信奉类似价值观。他说：“我在苹果的一个朋友喜欢
+
+这样说：解决问题的最好方式就是走出满是苹果工程师的房间，远离‘这不可能’的论调（
+
+解决问题的最好方式就是走进满是苹果工程师的房间，然后对他们说“这不可能。”我可以告诉你，他们
+
+不会接受这个看法的------你也不应该。（译者对苹果有意见））。取得重大进展是可能的，无论你做
+
+出何种选择，总是有冷眼旁观者和批评者，同时好心却无贡献者也对实现目标毫无意义。”
+
+库克还援引金《来自伯明翰监狱的信》，里面提及“好人保持沉默”，他呼吁人们摆脱“旁观”，积极参与
+
+追求正义、健康等。他说：“旁观不是你想要的生活，世界需要你登上舞台，有很多问题需要解决，正义
+
+需要得到伸张，人们依然受到迫害，疾病依然需要治愈。无论你接下来要做什么，世界需要你付出能
+
+量、激情和成功的渴望。不要怕冒险，远离那些愤世嫉俗者和批评者，历史很少由一个人来书写，但永
+
+远不要忘记，历史的确曾由一个人来书写。”
+
+离开讲台前，库克拿出iPhone 6，拍摄了一张众多观众的照⽚。库克本人是阿拉巴马大学的毕业生，
+
+2009年曾在那里发表毕业演讲。同一年，他被列入阿拉巴马州“名人堂”。（风帆）
+
+【美国Business Insider作品（简称“作品”）的中文翻译权及中文版版权均归腾讯公司独家所有。未经
+
+腾讯公司授权许可，任何组织、机构或个人不得对作品进行中文翻译或对作品中文版本实施转载、摘编
+
+或其他任何形式的使用行为，违者腾讯公司将追究其法律责任。】
+
+Apple CEO  Tim Cook tells graduates: Values and justice belong in the workplace
+
+Apple CEO  Tim Cook delivers the commencement speech to the 2015 graduating class of
+
+George W ashington University, in W ashington, D.C.
+
+Above: Apple CEO  Tim Cook delivers the commencement speech to the 2015 graduating
+
+class of George W ashington University, in W ashington, D.C.
+
+Image Credit: Screenshot from GW U video
+
+M ay 17, 2015 8:48 AM
+
+Dylan Tweney
+
+Apple chief executive Tim Cook delivered the commencement address to the graduating
+
+class of George W ashington University today. His speech spoke directly of justice, injustice,
+
+and his optimism that values belong in the workplace.
+
+Cook mentioned M artin Luther King, Jr. three times in his address, including at the very
+
+beginning and at the very end. He called King and former president John F. Kennedy two of
+
+his early heroes from childhood, at a time and place (Alabama, where Cook grew up) where
+
+those two were not held in high regard by most of the people around him.
+
+The ceremony took place on the National M all in W ashington, D.C., not far from the base of
+
+the W ashington M onument, which was visible directly behind the stage. The university said
+
+that it expected a crowd of 25,000, including about 6,000 graduates of the university.
+
+“It was here that Dr. M artin Luther King challenged Americans to make real the promise of
+
+democracy,” Cook began. “It was here that President Ronald Reagan called on us to believe
+
+in ourselves, and to believe in our capacity to perform great deeds.”
+
+Cook told an anecdote of how he first visited W ashington in 1977, when he was sixteen,
+
+after winning an essay contest. Before traveling to the nation’s capital, he and other
+
+Alabama students visited M ontgomery, where they met with then-governor George C.
+
+W allace — who had opposed desegregation in the 1960s.
+
+“M eeting my governor was not an honor for me,” Cook said. “Shaking his hand felt like a
+
+betrayal of my own beliefs. It felt wrong, like I was selling a piece of my soul.”
+
+In W ashington, he said, he got to meet President Jimmy Carter, and he contrasted Carter
+
+and W allace: both from the South, both governors or former governors, but very different in
+
+their values.
+
+“Carter was kind and compassionate. He held the most powerful job in the world, and had
+
+not sacrificed any of his humanity,” Cook said.
+
+Between W allace and Carter, Cook said, “It was clear to me that one was right and one was
+
+wrong.”
+
+Cook went on to say that it is important to remain true to your values.
+
+“It’s about finding your values, and committing to them. It’s about finding your North Star.
+
+It’s about making choices. Some are easy. Some are hard. And some will make you question
+
+everything.”
+
+Twenty years after his trip to W ashington, Cook said, “I met someone who made me
+
+question everything. … That was Steve Jobs.”
+
+It was 1998. Jobs had founded Apple, been forced out, and had recently returned “to find it
+
+in ruins,” as Cook put it.
+
+“He didn’t know it at the time, but he was about to dedicate the rest of his life to rescuing
+
+it and to leading it to heights greater than anyone could imagine.
+
+“His vision for Apple was for a company that could turn powerful technology into tools that
+
+were easy to use. Tools that could help people realize their dreams and change the world
+
+for the better.”
+
+At the time, Cook said he had retained his values, but kept them out of the work sphere. “I
+
+felt work was work,” Cook said, and it was important to be professional and valueless in
+
+work. That left him feeling “adrift and rudderless,” like Apple, Cook said.
+
+“Steve didn’t see it that way. Steve was an idealist. He convinced me that if we worked hard
+
+and made good products, we too could change the world.
+
+“I took the job, and it changed my life,” Cook said. “It has been 17 years, and I have never
+
+once looked back.”
+
+He continued by saying how Apple retains an optimism that its products can improve the
+
+world.
+
+“At Apple, we believe that work is not about improving your own self. It’s about improving
+
+others’ lives as well.”
+
+For example, he said, the company’s technologies can help blind people read. It can help
+
+people who live in remote areas stay connected. And, with an indirect reference to many
+
+recent videos of police brutality, Cook talked about smartphones’ roles in social justice:
+
+“People who witness injustice and want to expose it — and now they can, because they have
+
+a camera in their pocket all the time.”
+
+Cook continued:
+
+W e believe that a company that has values and acts on them can really change the world.
+
+And an individual can too. That can be you. That must be you.
+
+Graduates, your values matter. They are your North Star. O therwise it’s just a job — and life
+
+is too short for that.
+
+You don’t have to choose between doing good and doing well. It’s a false choice, today
+
+more than ever. Your challenge is to find work that pays the rent, puts food on the table,
+
+and lets you do what is right and good and just.
+
+Find your North Star. Let it guide you in life and work and in your life’s work.
+
+Now I suspect some of you aren’t buying this. I won’t take it personally. It’s not surprising
+
+that people are skeptical, especially here in W ashington. … A healthy amount of skepticism
+
+is fine, but too often in this town it turns to cynicism. …
+
+M aybe that’s just the world that we live in. But graduates, this is your world to change.
+
+Before closing, Cook took a moment to point out some of the values of Apple and of Silicon
+
+Valley. (He did, however, note that he is a “proud son of the South” and that he will always
+
+love the South.)
+
+In Silicon Valley, he said, people believe that any problem can be solved, no matter how
+
+difficult. There is “a very sincere sort of optimism.”
+
+This extends to Apple, as well, Cook said.
+
+“A friend of mine at Apple likes to say that the best way to solve a problem is to walk into a
+
+room full of Apple engineers and proclaim ‘This is impossible.’ I can tell you, they will not
+
+accept that — and neither should you.
+
+“Great progress is possible, whatever line of work you choose. There will always be cynics
+
+and critics on the sidelines, tearing people down. And just as harmful are those people with
+
+good intentions who make no contribution at all.”
+
+Cook cited King’s “Letter From a Birmingham Jail,” which referred to the “appalling silence
+
+of the good people,” and urged people to get off the “sidelines” and into active work
+
+pursuing justice, health, and more.
+
+The sidelines are not where you want to live your life. The world needs you in the arena.
+
+There are problems that need to be solved. Injustices that need to be ended. People that are
+
+still being persecuted. Diseases still in need of cure.
+
+No matter what you do next, the world needs your energy, your passion, your impatience for
+
+progress.
+
+Don’t shrink from risk. And tune out those cynics and critics. History rarely yields to one
+
+person — but think, and never forget, what happens when it does.
+
+That can be you. That should be you. That must be you.
+
+<CommentsLoader src="/comments/article-534.json" />
+
+<div class="post-nav"><a href="/toc">返回全部目录</a></div>

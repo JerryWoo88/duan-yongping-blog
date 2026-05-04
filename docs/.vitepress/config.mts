@@ -15,30 +15,7 @@ export default defineConfig({
       { text: '目录', link: '/toc' }
     ],
     sidebar,
-    outline: {
-      level: [2, 2],
-      label: '文章目录'
-    },
-    search: {
-      provider: 'local',
-      options: {
-        translations: {
-          button: {
-            buttonText: '搜索文章',
-            buttonAriaLabel: '搜索文章'
-          },
-          modal: {
-            noResultsText: '没有找到结果',
-            resetButtonTitle: '清除查询',
-            footer: {
-              selectText: '选择',
-              navigateText: '切换',
-              closeText: '关闭'
-            }
-          }
-        }
-      }
-    },
+    outline: false,
     socialLinks: [
       { icon: 'github', link: 'https://github.com/JerryWoo88/duan-yongping-blog' }
     ],

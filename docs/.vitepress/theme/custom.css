@@ -117,6 +117,105 @@ body {
   margin: 0.35em 0;
 }
 
+.post-card {
+  border-bottom: 1px solid rgba(139, 63, 47, 0.14);
+  padding: 24px 0 26px;
+}
+
+.post-card:first-of-type {
+  border-top: 1px solid rgba(139, 63, 47, 0.14);
+}
+
+.post-card h2 {
+  border: 0;
+  font-size: 24px;
+  line-height: 1.35;
+  margin: 6px 0 10px;
+  padding: 0;
+}
+
+.post-card h2 a {
+  color: var(--vp-c-text-1);
+  text-decoration: none;
+}
+
+.post-card h2 a:hover {
+  color: var(--vp-c-brand-1);
+}
+
+.post-card p {
+  color: var(--vp-c-text-2);
+  font-size: 15px;
+  line-height: 1.75;
+  margin: 0 0 10px;
+}
+
+.post-card-meta,
+.read-more,
+.post-nav,
+.comments-loader {
+  font-family: "Noto Sans SC", "Microsoft YaHei", sans-serif;
+}
+
+.post-card-meta {
+  color: var(--vp-c-text-2);
+  font-size: 13px;
+}
+
+.read-more {
+  font-size: 14px;
+}
+
+.comments-loader {
+  border-top: 1px dashed rgba(139, 63, 47, 0.22);
+  margin-top: 42px;
+  padding-top: 22px;
+}
+
+.comments-toggle {
+  background: #eadbd2;
+  border: 1px solid rgba(139, 63, 47, 0.16);
+  border-radius: 999px;
+  color: var(--vp-c-brand-1);
+  cursor: pointer;
+  font-size: 14px;
+  padding: 8px 18px;
+}
+
+.comments-toggle:hover {
+  background: #e2cec3;
+}
+
+.comments-list {
+  margin-top: 18px;
+}
+
+.comment-card {
+  background: rgba(255, 253, 249, 0.72);
+  border: 1px solid rgba(139, 63, 47, 0.1);
+  border-radius: 6px;
+  margin: 12px 0;
+  padding: 12px 16px;
+}
+
+.comment-card p,
+.comments-empty,
+.comments-error {
+  color: var(--vp-c-text-2);
+  font-size: 15px;
+  line-height: 1.75;
+  margin: 6px 0 0;
+}
+
+.comment-meta {
+  color: var(--vp-c-brand-1);
+  font-size: 13px;
+}
+
+.post-nav {
+  margin-top: 28px;
+}
+
 .vp-doc .article-meta {
   color: var(--vp-c-text-2);
   font-family: "Noto Sans SC", "Microsoft YaHei", sans-serif;
@@ -213,6 +312,11 @@ body {
 }
 
 @media (max-width: 768px) {
+  .VPDoc .content-container,
+  .VPDoc.has-aside .content-container {
+    max-width: 100%;
+  }
+
   .VPDocAside {
     display: none;
   }
@@ -230,5 +334,13 @@ body {
     font-size: 25px;
     margin-top: 48px;
     padding-top: 32px;
+  }
+
+  .post-card {
+    padding: 20px 0 22px;
+  }
+
+  .post-card h2 {
+    font-size: 21px;
   }
 }
