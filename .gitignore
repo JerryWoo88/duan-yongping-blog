@@ -1,0 +1,6 @@
+node_modules/
+docs/.vitepress/dist/
+.vitepress/cache/
+*.zip
+pdf-text-cache.txt
+__pycache__/

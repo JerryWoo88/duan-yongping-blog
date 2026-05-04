@@ -1,0 +1,234 @@
+:root {
+  --vp-c-brand-1: #8b3f2f;
+  --vp-c-brand-2: #a45743;
+  --vp-c-brand-3: #c27a62;
+  --vp-c-bg: #fbfaf7;
+  --vp-c-bg-alt: #f5f0e8;
+  --vp-c-bg-soft: #f8f3eb;
+  --vp-c-text-1: #23201d;
+  --vp-c-text-2: #696158;
+  --vp-c-divider: #ded8cd;
+  --vp-font-family-base: "Noto Serif SC", "Songti SC", SimSun, Georgia, serif;
+  --vp-font-family-mono: "SFMono-Regular", Consolas, "Liberation Mono", monospace;
+}
+
+body {
+  background:
+    linear-gradient(90deg, rgba(139, 63, 47, 0.035), transparent 22%, transparent 78%, rgba(139, 63, 47, 0.035)),
+    var(--vp-c-bg);
+}
+
+.VPNavBar {
+  border-bottom: 1px solid rgba(139, 63, 47, 0.12);
+  background: rgba(251, 250, 247, 0.92);
+  backdrop-filter: blur(12px);
+}
+
+.VPNavBarTitle .title {
+  color: var(--vp-c-text-1);
+  font-family: "Noto Serif SC", "Songti SC", SimSun, Georgia, serif;
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.VPSidebar {
+  border-right: 1px solid rgba(139, 63, 47, 0.1);
+  background: #f5f0e8;
+}
+
+.VPSidebarItem .text {
+  line-height: 1.6;
+}
+
+.VPSidebarItem.level-0 > .item > .link > .text {
+  color: var(--vp-c-text-2);
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.VPSidebarItem.level-1 > .item > .link {
+  border-radius: 6px;
+  padding: 5px 10px;
+}
+
+.VPSidebarItem.level-1.is-active > .item > .link {
+  background: #eadbd2;
+}
+
+.VPSidebarItem.level-1.is-active > .item > .link > .text {
+  color: var(--vp-c-brand-1);
+}
+
+.VPDoc .content-container {
+  max-width: 900px;
+}
+
+.vp-doc {
+  color: #28231f;
+  font-size: 18px;
+  line-height: 1.95;
+}
+
+.vp-doc h1,
+.vp-doc h2,
+.vp-doc h3 {
+  letter-spacing: 0;
+}
+
+.vp-doc h1 {
+  margin-bottom: 22px;
+  font-size: 44px;
+  line-height: 1.18;
+}
+
+.vp-doc h2 {
+  border-top: 1px solid rgba(139, 63, 47, 0.18);
+  border-bottom: 0;
+  margin-top: 64px;
+  padding-top: 42px;
+  font-size: 30px;
+  line-height: 1.35;
+}
+
+.vp-doc h3 {
+  color: var(--vp-c-brand-1);
+  font-family: "Noto Sans SC", "Microsoft YaHei", sans-serif;
+  font-size: 17px;
+  margin-top: 36px;
+}
+
+.vp-doc p {
+  margin: 18px 0;
+}
+
+.vp-doc blockquote {
+  background: rgba(255, 253, 249, 0.72);
+  border: 1px solid rgba(139, 63, 47, 0.12);
+  border-left: 0;
+  border-radius: 6px;
+  color: var(--vp-c-text-2);
+  font-size: 15px;
+  line-height: 1.8;
+  margin: 12px 0;
+  padding: 12px 16px;
+}
+
+.vp-doc blockquote p {
+  margin: 0.35em 0;
+}
+
+.vp-doc .article-meta {
+  color: var(--vp-c-text-2);
+  font-family: "Noto Sans SC", "Microsoft YaHei", sans-serif;
+  font-size: 14px;
+  margin: -8px 0 18px;
+}
+
+.vp-doc .source-link {
+  font-family: "Noto Sans SC", "Microsoft YaHei", sans-serif;
+  font-size: 14px;
+}
+
+.VPSidebar,
+.VPDocAsideOutline {
+  font-family: "Noto Sans SC", "Microsoft YaHei", sans-serif;
+}
+
+.VPDocAsideOutline {
+  border-left: 1px solid rgba(139, 63, 47, 0.15);
+  padding-left: 18px;
+}
+
+.VPDocAsideOutline .content {
+  padding-left: 0;
+}
+
+.VPDocAsideOutline .outline-title {
+  color: var(--vp-c-brand-1);
+  font-size: 14px;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+
+.VPDocAsideOutline .outline-link {
+  border-radius: 5px;
+  color: #5e554e;
+  display: block;
+  font-size: 13px;
+  line-height: 1.45;
+  max-width: 228px;
+  overflow: hidden;
+  padding: 5px 8px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.VPDocAsideOutline .outline-link:hover,
+.VPDocAsideOutline .outline-link.active {
+  background: #eadbd2;
+  color: var(--vp-c-brand-1);
+  text-decoration: none;
+}
+
+.VPHome {
+  background: transparent;
+}
+
+.VPHomeHero .name,
+.VPHomeHero .text {
+  font-family: "Noto Serif SC", "Songti SC", SimSun, Georgia, serif;
+  letter-spacing: 0;
+}
+
+.VPHomeHero .tagline {
+  font-family: "Noto Sans SC", "Microsoft YaHei", sans-serif;
+}
+
+@media (min-width: 960px) {
+  .VPDoc:not(.has-sidebar) .content {
+    max-width: 900px;
+  }
+
+  .VPDoc.has-aside .content-container {
+    max-width: 900px;
+  }
+
+  .VPDoc .container {
+    justify-content: center;
+  }
+}
+
+@media (min-width: 1440px) {
+  .VPSidebar {
+    width: 216px;
+  }
+
+  .VPContent.has-sidebar {
+    padding-left: 216px;
+  }
+
+  .VPNavBar.has-sidebar .content {
+    padding-left: 216px;
+  }
+}
+
+@media (max-width: 768px) {
+  .VPDocAside {
+    display: none;
+  }
+
+  .vp-doc {
+    font-size: 17px;
+    line-height: 1.9;
+  }
+
+  .vp-doc h1 {
+    font-size: 34px;
+  }
+
+  .vp-doc h2 {
+    font-size: 25px;
+    margin-top: 48px;
+    padding-top: 32px;
+  }
+}
