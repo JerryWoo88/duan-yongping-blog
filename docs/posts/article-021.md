@@ -11,9 +11,7 @@ aside: false
 
 http://news.24365pt.com/news/20100301/598976.html
 
-我这钱还没汇，他那⼉怎么就到账了？是银行出问题了吗？
-
-刚刚和学校核实过了，不是学校说的。
+我这钱还没汇，他那⼉怎么就到账了？是银行出问题了吗？刚刚和学校核实过了，不是学校说的。
 
 <CommentsLoader src="/comments/article-021.json" />
 

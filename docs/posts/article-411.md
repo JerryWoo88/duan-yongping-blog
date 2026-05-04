@@ -9,17 +9,7 @@ aside: false
 
 <a class="source-link" href="http://nteswjq.blog.163.com/blog/static/126998120131135721694" target="_blank" rel="noreferrer">原博客链接</a>
 
-除了我们已经尝试过的其他政治体制之外，民主是最坏的了.
-
-M any forms of Government have been tried and will be tried in this world of sin and woe. No
-
-one pretends that democracy is perfect or all-wise. Indeed, it has been said that democracy
-
-is the worst form of government except all those other forms that have been tried from time
-
-to time.、
-
---丘吉尔
+除了我们已经尝试过的其他政治体制之外，民主是最坏的了.M any forms of Government have been tried and will be tried in this world of sin and woe. No one pretends that democracy is perfect or all-wise. Indeed, it has been said that democracy is the worst form of government except all those other forms that have been tried from time to time.、--丘吉尔
 
 <CommentsLoader src="/comments/article-411.json" />
 

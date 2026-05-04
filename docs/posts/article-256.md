@@ -11,9 +11,7 @@ aside: false
 
 http://liuxinontheroad.blog.163.com/blog/static/184423212201192114826173/
 
-10-9-2011 贡嘎雪山，四川海螺沟国家公园。 Hai Luo Gou Glacier National Park, Sichuan
-
-Province.
+10-9-2011 贡嘎雪山，四川海螺沟国家公园。 Hai Luo Gou Glacier National Park, Sichuan Province.
 
 <CommentsLoader src="/comments/article-256.json" />
 

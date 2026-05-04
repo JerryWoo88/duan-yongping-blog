@@ -11,17 +11,7 @@ aside: false
 
 http://news.imeigu.com/a/1274883514310.html
 
-很典型的美国投资人的看法，居然根本不提淘宝和支付宝。
-
------------------------------------------------------------------------
-
-------------------------------------------------------------------------
-
------------------------------
-
-Yahoo paints brightening picture through 2013  http://finance.yahoo.com/news/Yahoo-
-
-paints-brightening-apf-3533507780.html?x=0&sec=topStories&pos=main&asset=&ccode=
+很典型的美国投资人的看法，居然根本不提淘宝和支付宝。----------------------------------------------------------------------------------------------------------------------------------------------------------------------------Yahoo paints brightening picture through 2013  http://finance.yahoo.com/news/Yahoo-paints-brightening-apf-3533507780.html?x=0&sec=topStories&pos=main&asset=&ccode=
 
 <CommentsLoader src="/comments/article-072.json" />
 

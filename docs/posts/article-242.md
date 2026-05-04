@@ -11,9 +11,7 @@ aside: false
 
 http://news.imeigu.com/a/1317426660994.html
 
-昨天也去听了。马云讲的非常好，而且是用英语，真是厉害！
-
-自⼰骑自行车去的，半道居然没气了，差点没赶上。
+昨天也去听了。马云讲的非常好，而且是用英语，真是厉害！自⼰骑自行车去的，半道居然没气了，差点没赶上。
 
 <CommentsLoader src="/comments/article-242.json" />
 

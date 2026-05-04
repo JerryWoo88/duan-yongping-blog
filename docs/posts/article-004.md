@@ -9,9 +9,7 @@ aside: false
 
 <a class="source-link" href="http://nteswjq.blog.163.com/blog/static/12699812007539426648" target="_blank" rel="noreferrer">原博客链接</a>
 
-午饭时曾问他是否做过 O ptions，他说“我70多的人了，啥没做过？” 所以我说他也做短线，应该说他也
-
-做过短线，没想到网易的编辑把这当标题了， 郁闷 。
+午饭时曾问他是否做过 O ptions，他说“我70多的人了，啥没做过？” 所以我说他也做短线，应该说他也做过短线，没想到网易的编辑把这当标题了， 郁闷 。
 
 <CommentsLoader src="/comments/article-004.json" />
 

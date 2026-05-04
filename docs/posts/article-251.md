@@ -9,8 +9,7 @@ aside: false
 
 <a class="source-link" href="http://nteswjq.blog.163.com/blog/static/126998120119168599562" target="_blank" rel="noreferrer">原博客链接</a>
 
-也许这个视频可以告诉大家为什么我喜欢马云。
-经常有人告诉我马云如何如何的。Frankly，我是见过世面的人，I'm not that stupid，O K？
+也许这个视频可以告诉大家为什么我喜欢马云。经常有人告诉我马云如何如何的。Frankly，我是见过世面的人，I'm not that stupid，O K？
 
 http://t.cn/aFdamo
 

@@ -9,9 +9,7 @@ aside: false
 
 <a class="source-link" href="http://nteswjq.blog.163.com/blog/static/1269981201101021029402" target="_blank" rel="noreferrer">原博客链接</a>
 
-好像这部电影⻜常成功啊，到处都是好评，终于忍不住找了张碟看了一下，完了觉得我也被老汤蒙了一
-
-把。
+好像这部电影⻜常成功啊，到处都是好评，终于忍不住找了张碟看了一下，完了觉得我也被老汤蒙了一把。
 
 <CommentsLoader src="/comments/article-134.json" />
 

@@ -11,9 +11,7 @@ aside: false
 
 http://www.umiwi.com/video/detail2480
 
-在朋友里面我最喜欢闲聊天的就是冯仑了，他经常有很精辟有趣的观点和表达。这里他对李敖的评语非
-
-常到位，简直太⽜那个啥了。
+在朋友里面我最喜欢闲聊天的就是冯仑了，他经常有很精辟有趣的观点和表达。这里他对李敖的评语非常到位，简直太⽜那个啥了。
 
 <CommentsLoader src="/comments/article-115.json" />
 

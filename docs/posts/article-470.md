@@ -13,13 +13,7 @@ http://jalopnik.com/another-tesla-model-s-caught-fire-after-a-crash-in-mexi-
 
 1453376349
 
-tesla又着了一辆，还是在居民区里，这个速度也能着，实在是有点恐怖，万一下回开不了车门就麻烦
-
-了。
-
-我收回我所有的推荐！！！
-
-这可都是新车啊，5年后还不知怎么着呢。
+tesla又着了一辆，还是在居民区里，这个速度也能着，实在是有点恐怖，万一下回开不了车门就麻烦了。我收回我所有的推荐！！！这可都是新车啊，5年后还不知怎么着呢。
 
 <CommentsLoader src="/comments/article-470.json" />
 

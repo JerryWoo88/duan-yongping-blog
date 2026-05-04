@@ -9,13 +9,7 @@ aside: false
 
 <a class="source-link" href="http://nteswjq.blog.163.com/blog/static/126998120112841013225" target="_blank" rel="noreferrer">原博客链接</a>
 
-Charlie M unger: "W arren talks about these discounted cash flows ... I've never seen him do
-
-one." W arren E. Buffett: "It’s true. If it doesn't scream out at you, it's too close." –
-
-(M unger/Buffett responding to a shareholder question at the 1996 Berkshire Hathaway
-
-Annual M eeting in O maha, Nebraska)
+Charlie M unger: "W arren talks about these discounted cash flows ... I've never seen him do one." W arren E. Buffett: "It’s true. If it doesn't scream out at you, it's too close." –(M unger/Buffett responding to a shareholder question at the 1996 Berkshire Hathaway Annual M eeting in O maha, Nebraska)
 
 <CommentsLoader src="/comments/article-157.json" />
 

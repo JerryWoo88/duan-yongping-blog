@@ -9,9 +9,7 @@ aside: false
 
 <a class="source-link" href="http://nteswjq.blog.163.com/blog/static/1269981201164656856" target="_blank" rel="noreferrer">原博客链接</a>
 
-朋友介绍我下载了个免费iphone软件viber，可以在iphone间免费打国际长途和发短信，有iphone的可
-
-以试试。
+朋友介绍我下载了个免费iphone软件viber，可以在iphone间免费打国际长途和发短信，有iphone的可以试试。
 
 <CommentsLoader src="/comments/article-228.json" />
 

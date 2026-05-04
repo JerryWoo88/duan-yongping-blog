@@ -11,15 +11,7 @@ aside: false
 
 "W orking with people who cause your stomach to churn seems much like marrying for money
 
-- probably a bad idea under any circumstances, but absolute madness if you are already
-
-rich."
-
----
-
-Attogear QuickQuote Apps for iPhone/iPod Touch - http://www.attogear.com
-
-发自我的 iPhone
+- probably a bad idea under any circumstances, but absolute madness if you are already rich."---Attogear QuickQuote Apps for iPhone/iPod Touch - http://www.attogear.com发自我的 iPhone
 
 <CommentsLoader src="/comments/article-373.json" />
 

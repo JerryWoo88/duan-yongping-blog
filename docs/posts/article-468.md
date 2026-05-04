@@ -13,13 +13,7 @@ http://www.iheima.com/archives/44840.html
 
 http://mp.weixin.qq.com/mp/appmsg/show?
 
-__biz=M jM 5M DM 3NDQ0M A%3D%3D&appmsgid=10000764&itemidx=3&sign=d59ad2b933456
-
-94a5dcdad1b8cfd6257&scene=2&uin=M TM 2M jcwM DUyM A%3D%3D&key=6a68cf733852b46c
-
-4cde390420726e3b7a7ba1818aac1481a5693ed13f2b22567dae39b9be5652d367dc5b95154c5
-
-def&devicetype=iPhone+O S7.0.2&version=15000100&lang=zh_CN
+__biz=M jM 5M DM 3NDQ0M A%3D%3D&appmsgid=10000764&itemidx=3&sign=d59ad2b933456 94a5dcdad1b8cfd6257&scene=2&uin=M TM 2M jcwM DUyM A%3D%3D&key=6a68cf733852b46c 4cde390420726e3b7a7ba1818aac1481a5693ed13f2b22567dae39b9be5652d367dc5b95154c5 def&devicetype=iPhone+O S7.0.2&version=15000100&lang=zh_CN
 
 <CommentsLoader src="/comments/article-468.json" />
 

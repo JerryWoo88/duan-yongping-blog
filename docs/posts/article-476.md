@@ -9,9 +9,7 @@ aside: false
 
 <a class="source-link" href="http://nteswjq.blog.163.com/blog/static/12699812014012550336" target="_blank" rel="noreferrer">原博客链接</a>
 
-新年快乐！
-
-Happy New Year!
+新年快乐！Happy New Year!
 
 <CommentsLoader src="/comments/article-476.json" />
 

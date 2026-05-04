@@ -9,9 +9,7 @@ aside: false
 
 <a class="source-link" href="http://nteswjq.blog.163.com/blog/static/1269981201282375810234" target="_blank" rel="noreferrer">原博客链接</a>
 
-iO S六实在是强大啊,现在iPad也可以用Siri(语⾳录入）了。 iPhone 5的试用体验非常好,还没有iPhone
-
-的可以试试吧。
+iO S六实在是强大啊,现在iPad也可以用Siri(语⾳录入）了。 iPhone 5的试用体验非常好,还没有iPhone的可以试试吧。
 
 <CommentsLoader src="/comments/article-361.json" />
 

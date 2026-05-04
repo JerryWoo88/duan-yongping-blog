@@ -11,17 +11,11 @@ aside: false
 
 http://m.jiemian.com/article/333294.html
 
-一直想找点IBM 的企业文化的东⻄看看，结果找到这篇。不知道这故事的真假，但IBM 如果真是这么对待
-
-过王安的话，那企业文化就是有问题的。
+一直想找点IBM 的企业文化的东⻄看看，结果找到这篇。不知道这故事的真假，但IBM 如果真是这么对待过王安的话，那企业文化就是有问题的。
 
 http://blog.xuite.net/lingf01/twblog/141970492-
 
-%E8%AA%B0%E8%AA%AA%E5%A4%A7%E8%B1%A1%E4%B8%8D%E6%9C%83%E8%B7%
-
-B3%E8%88%9E
-
-下面这条有点意思，
+%E8%AA%B0%E8%AA%AA%E5%A4%A7%E8%B1%A1%E4%B8%8D%E6%9C%83%E8%B7%B3%E8%88%9E下面这条有点意思，
 
 http://news.pedaily.cn/201204/20120419324866.shtml
 

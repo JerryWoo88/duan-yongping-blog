@@ -11,9 +11,7 @@ aside: false
 
 http://v.163.com/special/sp/innercore.html
 
-刚发现网易居然有这些名校的公开课，这可是价值连城啊。如果英文好的，有时间也可以听听名校的课
-
-程。
+刚发现网易居然有这些名校的公开课，这可是价值连城啊。如果英文好的，有时间也可以听听名校的课程。
 
 <CommentsLoader src="/comments/article-139.json" />
 

@@ -44,14 +44,79 @@ def post_href(article: dict) -> str:
     return site_link(post_link(article))
 
 
+def is_heading_or_url(line: str) -> bool:
+    if re.match(r"^\s*#{1,6}\s+", line):
+        return True
+    if re.match(r"^https?://\S+$", line):
+        return True
+    return False
+
+
+def is_list_start(line: str) -> bool:
+    return bool(re.match(r"^\s*([-*+]\s+|\d+[.)、]\s+|[一二三四五六七八九十]+[、.．]\s*)", line))
+
+
+def is_title_like_line(line: str) -> bool:
+    compact = re.sub(r"\s+", "", line)
+    if len(compact) > 32:
+        return False
+    if re.search(r"[。！？.!?；;，,、]$", compact):
+        return False
+    if re.search(r"(的|地|得|和|与|及|以及|或|在|把|被|将|是|为|对|但|而|并|且|：|:)$", compact):
+        return False
+    if re.match(r"^(的|了|和|与|及|以及|或|在|把|被|将|是|为|对|但|而|并|且)", compact):
+        return False
+    return True
+
+
+def append_wrapped_line(parts: list[str], line: str) -> None:
+    if not parts:
+        parts.append(line)
+        return
+    previous = parts[-1]
+    if re.search(r"[A-Za-z0-9]$", previous) and re.match(r"^[A-Za-z0-9]", line):
+        parts[-1] = previous + " " + line
+    else:
+        parts[-1] = previous + line
+
+
 def split_paragraphs(text: str) -> list[str]:
     text = md_escape(text)
     if not text:
         return []
-    parts = [part.strip() for part in re.split(r"\n\s*\n", text) if part.strip()]
-    if len(parts) == 1:
-        parts = [part.strip() for part in text.splitlines() if part.strip()]
-    return parts
+
+    paragraphs: list[str] = []
+    current: list[str] = []
+
+    def flush_current() -> None:
+        if current:
+            paragraphs.append(current[0].strip())
+            current.clear()
+
+    for raw_line in text.splitlines():
+        line = raw_line.strip()
+        if not line:
+            flush_current()
+            continue
+
+        if is_heading_or_url(line):
+            flush_current()
+            paragraphs.append(line)
+            continue
+
+        if is_list_start(line):
+            flush_current()
+            current.append(line)
+            continue
+
+        if not current and is_title_like_line(line):
+            paragraphs.append(line)
+            continue
+
+        append_wrapped_line(current, line)
+
+    flush_current()
+    return paragraphs
 
 
 def summary(article: dict, limit: int = 120) -> str:

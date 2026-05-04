@@ -9,9 +9,7 @@ aside: false
 
 <a class="source-link" href="http://nteswjq.blog.163.com/blog/static/12699812011112404031974" target="_blank" rel="noreferrer">原博客链接</a>
 
-对不过圣诞的人们说Happy Holidays！
-
-祝大家新的一年平平安安开开心心，投资快乐！
+对不过圣诞的人们说Happy Holidays！祝大家新的一年平平安安开开心心，投资快乐！
 
 <CommentsLoader src="/comments/article-270.json" />
 

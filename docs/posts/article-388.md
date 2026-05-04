@@ -9,19 +9,7 @@ aside: false
 
 <a class="source-link" href="http://nteswjq.blog.163.com/blog/static/1269981201210178310652" target="_blank" rel="noreferrer">原博客链接</a>
 
-"For some reason, people take their cues from price action rather than from values. W hat
-
-doesn't work is when you start doing things that you don't understand or because they
-
-worked last week for somebody else. The dumbest reason in the world to buy a stock is
-
-because it's going up."
-
----
-
-Attogear QuickQuote Apps for iPhone/iPod Touch - http://www.attogear.com
-
-发自我的 iPhone
+"For some reason, people take their cues from price action rather than from values. W hat doesn't work is when you start doing things that you don't understand or because they worked last week for somebody else. The dumbest reason in the world to buy a stock is because it's going up."---Attogear QuickQuote Apps for iPhone/iPod Touch - http://www.attogear.com发自我的 iPhone
 
 <CommentsLoader src="/comments/article-388.json" />
 

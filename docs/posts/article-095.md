@@ -9,9 +9,7 @@ aside: false
 
 <a class="source-link" href="http://nteswjq.blog.163.com/blog/static/126998120106230135616" target="_blank" rel="noreferrer">原博客链接</a>
 
-新浪和搜狐都不能限制发言人，会有很多广告的。
-
-搜狐的博客里居然有我们公司的广告。
+新浪和搜狐都不能限制发言人，会有很多广告的。搜狐的博客里居然有我们公司的广告。
 
 <CommentsLoader src="/comments/article-095.json" />
 

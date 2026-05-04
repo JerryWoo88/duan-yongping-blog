@@ -9,9 +9,7 @@ aside: false
 
 <a class="source-link" href="http://nteswjq.blog.163.com/blog/static/126998120110885713820" target="_blank" rel="noreferrer">原博客链接</a>
 
-谁知道beat the market是什么意思？有这么多指数，beat哪个才算beat？突然想到的问题，没研究
-
-过。
+谁知道beat the market是什么意思？有这么多指数，beat哪个才算beat？突然想到的问题，没研究过。
 
 <CommentsLoader src="/comments/article-132.json" />
 

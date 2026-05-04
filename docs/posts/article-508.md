@@ -11,11 +11,7 @@ aside: false
 
 http://mp.weixin.qq.com/s?
 
-__biz=M zA4NDI4O DgwM g==&mid=200272247&idx=1&sn=8e437f6a23a0065bc57b8fb9f547e8
-
-0b&scene=1&from=groupmessage&isappinstalled=0#rd
-
-如果算上这两年的分红，小苹果实际上已经超过历史新高啦。
+__biz=M zA4NDI4O DgwM g==&mid=200272247&idx=1&sn=8e437f6a23a0065bc57b8fb9f547e8 0b&scene=1&from=groupmessage&isappinstalled=0#rd如果算上这两年的分红，小苹果实际上已经超过历史新高啦。
 
 <CommentsLoader src="/comments/article-508.json" />
 

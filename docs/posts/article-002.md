@@ -9,13 +9,7 @@ aside: false
 
 <a class="source-link" href="http://nteswjq.blog.163.com/blog/static/1269981200610200462832" target="_blank" rel="noreferrer">原博客链接</a>
 
-I shot 70 today with 1 double,3 bogies, 4 birdies and an eagle. It's the best score I have ever
-
-got.
-
-Life is just like golf, you can have some good shots and bad shots, but no matter whatever
-
-you get, you can always enjoy it.
+I shot 70 today with 1 double,3 bogies, 4 birdies and an eagle. It's the best score I have ever got.Life is just like golf, you can have some good shots and bad shots, but no matter whatever you get, you can always enjoy it.
 
 <CommentsLoader src="/comments/article-002.json" />
 

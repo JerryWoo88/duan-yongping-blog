@@ -11,13 +11,7 @@ aside: false
 
 http://www.leiphone.com/k-two-factors-reveal-apples.html
 
-看上去有点道理。
-
-今天女⼉决定要5c 了。
-
-在看过5s和5c 的广告后，女⼉最后还是决定要5s了，白色的，然后准备机器到手后来选彩色外壳。
-
-5s确实强大！
+看上去有点道理。今天女⼉决定要5c 了。在看过5s和5c 的广告后，女⼉最后还是决定要5s了，白色的，然后准备机器到手后来选彩色外壳。5s确实强大！
 
 <CommentsLoader src="/comments/article-465.json" />
 

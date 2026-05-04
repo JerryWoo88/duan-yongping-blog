@@ -9,17 +9,7 @@ aside: false
 
 <a class="source-link" href="http://nteswjq.blog.163.com/blog/static/1269981201210178953135" target="_blank" rel="noreferrer">原博客链接</a>
 
-"If you're an investor, you're looking on what the asset is going to do, if you're a speculator,
-
-you're commonly focusing on what the price of the object is going to do, and that's not our
-
-game. "
-
----
-
-Attogear QuickQuote Apps for iPhone/iPod Touch - http://www.attogear.com
-
-发自我的 iPhone
+"If you're an investor, you're looking on what the asset is going to do, if you're a speculator,you're commonly focusing on what the price of the object is going to do, and that's not our game. "---Attogear QuickQuote Apps for iPhone/iPod Touch - http://www.attogear.com发自我的 iPhone
 
 <CommentsLoader src="/comments/article-382.json" />
 

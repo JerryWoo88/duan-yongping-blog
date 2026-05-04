@@ -13,9 +13,7 @@ http://www.okii.com/product/callwatch/index.html
 
 http://wearable.pconline.com.cn/651/6516056.html
 
-小天才电话手表上市了，有3到10岁小朋友的来看看！
-
-在小朋友里这个也许会比苹果表实用
+小天才电话手表上市了，有3到10岁小朋友的来看看！在小朋友里这个也许会比苹果表实用
 
 <CommentsLoader src="/comments/article-541.json" />
 

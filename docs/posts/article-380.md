@@ -9,13 +9,7 @@ aside: false
 
 <a class="source-link" href="http://nteswjq.blog.163.com/blog/static/1269981201210178822366" target="_blank" rel="noreferrer">原博客链接</a>
 
-"If a business does well, the stock eventually follows."
-
----
-
-Attogear QuickQuote Apps for iPhone/iPod Touch - http://www.attogear.com
-
-发自我的 iPhone
+"If a business does well, the stock eventually follows."---Attogear QuickQuote Apps for iPhone/iPod Touch - http://www.attogear.com发自我的 iPhone
 
 <CommentsLoader src="/comments/article-380.json" />
 

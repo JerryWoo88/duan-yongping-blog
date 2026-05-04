@@ -11,11 +11,7 @@ aside: false
 
 http://tech.sina.com.cn/i/2010-03-05/14453907312.shtml
 
-呵呵，好！
-
-这样Yahoo就不会涨太快，我就可以拿一小部分出来玩options。
-
-涨太快会把我的股票call走的。好不容易找个便宜股票，被call走好郁闷。
+呵呵，好！这样Yahoo就不会涨太快，我就可以拿一小部分出来玩options。涨太快会把我的股票call走的。好不容易找个便宜股票，被call走好郁闷。
 
 <CommentsLoader src="/comments/article-026.json" />
 

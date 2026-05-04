@@ -9,9 +9,7 @@ aside: false
 
 <a class="source-link" href="http://nteswjq.blog.163.com/blog/static/12699812011128034571" target="_blank" rel="noreferrer">原博客链接</a>
 
-祝大家 平平安安 开开心心。
-
-春晚开始了。
+祝大家 平平安安 开开心心。春晚开始了。
 
 <CommentsLoader src="/comments/article-140.json" />
 

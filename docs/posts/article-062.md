@@ -11,9 +11,7 @@ aside: false
 
 http://news.163.com/10/0509/06/667KGI720001124J.html
 
-别的不敢说，我相信步步高和O PPO 的手机肯定没有！
-
-如果巴菲特或者芒格也卖手机的话，我相信他们也不会有的。
+别的不敢说，我相信步步高和O PPO 的手机肯定没有！如果巴菲特或者芒格也卖手机的话，我相信他们也不会有的。
 
 <CommentsLoader src="/comments/article-062.json" />
 
