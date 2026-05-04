@@ -1,5 +1,6 @@
 ---
 title: "inexplicable and inexcusable"
+aside: false
 ---
 
 # inexplicable and inexcusable

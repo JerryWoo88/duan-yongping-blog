@@ -1,5 +1,6 @@
 ---
 title: "O maha（2）"
+aside: false
 ---
 
 # O maha（2）

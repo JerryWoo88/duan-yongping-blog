@@ -1,5 +1,6 @@
 ---
 title: "3:0"
+aside: false
 ---
 
 # 3:0

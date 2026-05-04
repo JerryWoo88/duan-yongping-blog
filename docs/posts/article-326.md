@@ -1,5 +1,6 @@
 ---
 title: "Quotes"
+aside: false
 ---
 
 # Quotes

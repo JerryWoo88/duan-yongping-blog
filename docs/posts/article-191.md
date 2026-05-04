@@ -1,5 +1,6 @@
 ---
 title: "African Cats"
+aside: false
 ---
 
 # African Cats

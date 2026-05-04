@@ -1,5 +1,6 @@
 ---
 title: "好奇"
+aside: false
 ---
 
 # 好奇

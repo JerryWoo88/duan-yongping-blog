@@ -1,5 +1,6 @@
 ---
 title: "registry"
+aside: false
 ---
 
 # registry

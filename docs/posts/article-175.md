@@ -1,5 +1,6 @@
 ---
 title: "说说iphone（4）和ipad（2）"
+aside: false
 ---
 
 # 说说iphone（4）和ipad（2）

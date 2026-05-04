@@ -1,5 +1,6 @@
 ---
 title: "Notes from meeting with W arren Buﬀett"
+aside: false
 ---
 
 # Notes from meeting with W arren Buﬀett

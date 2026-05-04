@@ -1,5 +1,6 @@
 ---
 title: "让子弹⻜"
+aside: false
 ---
 
 # 让子弹⻜

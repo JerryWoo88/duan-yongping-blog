@@ -1,5 +1,6 @@
 ---
 title: "W arren Buﬀett Quotes"
+aside: false
 ---
 
 # W arren Buﬀett Quotes

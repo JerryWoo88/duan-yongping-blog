@@ -1,5 +1,6 @@
 ---
 title: "总有一天"
+aside: false
 ---
 
 # 总有一天

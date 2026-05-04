@@ -1,5 +1,6 @@
 ---
 title: "再更正"
+aside: false
 ---
 
 # 再更正

@@ -1,5 +1,6 @@
 ---
 title: "W arren Buﬀett: W hy stocks beat gold and bonds"
+aside: false
 ---
 
 # W arren Buﬀett: W hy stocks beat gold and bonds

@@ -1,5 +1,6 @@
 ---
 title: "美股评论：⽢居二流的雅虎http://www.sina.com.cn 2010年07月26日 21:53 新浪财经"
+aside: false
 ---
 
 # 美股评论：⽢居二流的雅虎http://www.sina.com.cn 2010年07月26日 21:53 新浪财经

@@ -1,5 +1,6 @@
 ---
 title: "引用 迪士尼CEO ：iPhone才是电影的未来"
+aside: false
 ---
 
 # 引用 迪士尼CEO ：iPhone才是电影的未来

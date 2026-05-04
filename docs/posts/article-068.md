@@ -1,5 +1,6 @@
 ---
 title: "I have nothing more to add。"
+aside: false
 ---
 
 # I have nothing more to add。

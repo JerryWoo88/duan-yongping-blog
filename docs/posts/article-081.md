@@ -1,5 +1,6 @@
 ---
 title: "万科"
+aside: false
 ---
 
 # 万科

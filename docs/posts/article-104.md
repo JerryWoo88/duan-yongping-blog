@@ -1,5 +1,6 @@
 ---
 title: "美股评论：赫德如何毁了惠普http://www.sina.com.cn 2010年08月19日 22:28 新浪财经"
+aside: false
 ---
 
 # 美股评论：赫德如何毁了惠普http://www.sina.com.cn 2010年08月19日 22:28 新浪财经

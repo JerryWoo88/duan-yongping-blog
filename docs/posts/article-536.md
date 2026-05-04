@@ -1,5 +1,6 @@
 ---
 title: "W W DC"
+aside: false
 ---
 
 # W W DC

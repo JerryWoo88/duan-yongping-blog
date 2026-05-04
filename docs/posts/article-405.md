@@ -1,5 +1,6 @@
 ---
 title: "golf和投资"
+aside: false
 ---
 
 # golf和投资

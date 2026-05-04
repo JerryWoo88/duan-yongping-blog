@@ -1,5 +1,6 @@
 ---
 title: "M artin Laird"
+aside: false
 ---
 
 # M artin Laird

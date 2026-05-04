@@ -1,5 +1,6 @@
 ---
 title: "Stay Hungry. Stay Foolish"
+aside: false
 ---
 
 # Stay Hungry. Stay Foolish

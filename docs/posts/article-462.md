@@ -1,5 +1,6 @@
 ---
 title: "复习一下"
+aside: false
 ---
 
 # 复习一下

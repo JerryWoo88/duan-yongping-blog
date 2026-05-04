@@ -1,5 +1,6 @@
 ---
 title: "40年"
+aside: false
 ---
 
 # 40年

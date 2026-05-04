@@ -1,5 +1,6 @@
 ---
 title: "Change the word - change the world"
+aside: false
 ---
 
 # Change the word - change the world

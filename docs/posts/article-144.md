@@ -1,5 +1,6 @@
 ---
 title: "Pro-am"
+aside: false
 ---
 
 # Pro-am

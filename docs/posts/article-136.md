@@ -1,5 +1,6 @@
 ---
 title: "double free---golf"
+aside: false
 ---
 
 # double free---golf

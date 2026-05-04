@@ -1,5 +1,6 @@
 ---
 title: "一声叹息"
+aside: false
 ---
 
 # 一声叹息

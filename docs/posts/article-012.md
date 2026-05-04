@@ -1,5 +1,6 @@
 ---
 title: "Avatar(阿凡达)"
+aside: false
 ---
 
 # Avatar(阿凡达)

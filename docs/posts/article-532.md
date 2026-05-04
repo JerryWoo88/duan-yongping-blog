@@ -1,5 +1,6 @@
 ---
 title: "引用 莫博士：试用Apple W atch一个月的体会"
+aside: false
 ---
 
 # 引用 莫博士：试用Apple W atch一个月的体会

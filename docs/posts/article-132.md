@@ -1,5 +1,6 @@
 ---
 title: "Beat the market"
+aside: false
 ---
 
 # Beat the market

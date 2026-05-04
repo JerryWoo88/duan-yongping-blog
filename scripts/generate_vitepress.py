@@ -16,10 +16,15 @@ PUBLIC = DOCS / "public"
 COMMENTS = PUBLIC / "comments"
 SIDEBAR = DOCS / ".vitepress" / "sidebar.ts"
 TOC = DOCS / "toc.md"
+HOME = DOCS / "index.md"
 
 
 def md_escape(text: str) -> str:
     return text.replace("\r\n", "\n").replace("\r", "\n").replace("\u2028", "\n").strip()
+
+
+def link_text(text: str) -> str:
+    return md_escape(text).replace("\\", "\\\\").replace("[", "\\[").replace("]", "\\]")
 
 
 def slug_for(article: dict) -> str:
@@ -77,6 +82,7 @@ def render_post(article: dict) -> str:
     lines = [
         "---",
         f"title: {json.dumps(article['title'], ensure_ascii=False)}",
+        "aside: false",
         "---",
         "",
         f"# {md_escape(article['title'])}",
@@ -115,7 +121,7 @@ def article_card(article: dict) -> str:
 
 
 def render_listing(title: str, intro: str, articles: list[dict]) -> str:
-    lines = ["---", f"title: {title}", "outline: false", "---", "", f"# {title}", "", intro, ""]
+    lines = ["---", f"title: {title}", "outline: false", "aside: false", "---", "", f"# {title}", "", intro, ""]
     for article in articles:
         lines.append(article_card(article))
     return "\n".join(lines).rstrip() + "\n"
@@ -126,6 +132,7 @@ def render_2010_index(quarters: dict[int, list[dict]]) -> str:
         "---",
         "title: 2010 年文章合集",
         "outline: false",
+        "aside: false",
         "---",
         "",
         "# 2010 年文章合集",
@@ -153,6 +160,7 @@ def render_toc(grouped: dict[str, list[dict]]) -> str:
         "---",
         "title: 全部目录",
         "outline: false",
+        "aside: false",
         "---",
         "",
         "# 全部目录",
@@ -163,8 +171,39 @@ def render_toc(grouped: dict[str, list[dict]]) -> str:
     for year in sorted(grouped):
         lines.extend([f"## {year}", ""])
         for article in grouped[year]:
-            lines.append(f"- [{article['number']:03d}. {article['date'][:10]} {md_escape(article['title'])}]({post_link(article)})")
+            lines.append(f"- [{article['number']:03d}. {article['date'][:10]} {link_text(article['title'])}]({post_link(article)})")
         lines.append("")
+    return "\n".join(lines).rstrip() + "\n"
+
+
+def render_home(grouped: dict[str, list[dict]]) -> str:
+    lines = [
+        "---",
+        "title: 段永平博客文章合集",
+        "outline: false",
+        "aside: false",
+        "---",
+        "",
+        "# 段永平博客文章合集",
+        "",
+        "2006-2018",
+        "",
+    ]
+    for year in sorted(grouped):
+        lines.extend([f"## {year}", ""])
+        if year == "2010":
+            quarters: dict[int, list[dict]] = defaultdict(list)
+            for article in grouped[year]:
+                quarters[quarter_for(article)].append(article)
+            for quarter in range(1, 5):
+                lines.extend([f"### Q{quarter}", ""])
+                for article in quarters.get(quarter, []):
+                    lines.append(f"- [{article['number']:03d}. {article['date'][:10]} {link_text(article['title'])}]({post_link(article)})")
+                lines.append("")
+        else:
+            for article in grouped[year]:
+                lines.append(f"- [{article['number']:03d}. {article['date'][:10]} {link_text(article['title'])}]({post_link(article)})")
+            lines.append("")
     return "\n".join(lines).rstrip() + "\n"
 
 
@@ -245,6 +284,7 @@ def main() -> None:
             )
 
     TOC.write_text(render_toc(grouped), encoding="utf-8")
+    HOME.write_text(render_home(grouped), encoding="utf-8")
     SIDEBAR.write_text(render_sidebar(sorted(grouped)), encoding="utf-8")
     print(f"Generated {len(articles)} posts, {len(grouped)} year indexes, and lazy comment JSON.")
 

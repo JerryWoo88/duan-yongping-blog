@@ -1,5 +1,6 @@
 ---
 title: "《阅读的力量》作者Krashen在合肥的讲座"
+aside: false
 ---
 
 # 《阅读的力量》作者Krashen在合肥的讲座

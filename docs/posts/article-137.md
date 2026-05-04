@@ -1,5 +1,6 @@
 ---
 title: "one apple a day keeps the doctor away"
+aside: false
 ---
 
 # one apple a day keeps the doctor away

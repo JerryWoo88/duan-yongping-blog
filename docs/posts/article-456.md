@@ -1,5 +1,6 @@
 ---
 title: "iO S7"
+aside: false
 ---
 
 # iO S7

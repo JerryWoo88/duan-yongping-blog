@@ -1,5 +1,6 @@
 ---
 title: "O PPO ：软时代的硬汉子"
+aside: false
 ---
 
 # O PPO ：软时代的硬汉子

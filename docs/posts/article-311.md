@@ -1,5 +1,6 @@
 ---
 title: "just for fun"
+aside: false
 ---
 
 # just for fun

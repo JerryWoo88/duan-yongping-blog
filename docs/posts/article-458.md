@@ -1,5 +1,6 @@
 ---
 title: "allow Tesla M otors to sell directly to consumers in all 50 states."
+aside: false
 ---
 
 # allow Tesla M otors to sell directly to consumers in all 50 states.

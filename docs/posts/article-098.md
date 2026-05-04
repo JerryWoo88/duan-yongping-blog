@@ -1,5 +1,6 @@
 ---
 title: "博友"
+aside: false
 ---
 
 # 博友

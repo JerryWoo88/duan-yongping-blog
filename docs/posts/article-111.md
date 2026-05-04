@@ -1,5 +1,6 @@
 ---
 title: "15周年"
+aside: false
 ---
 
 # 15周年

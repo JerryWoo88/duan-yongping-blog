@@ -1,5 +1,6 @@
 ---
 title: "siri"
+aside: false
 ---
 
 # siri

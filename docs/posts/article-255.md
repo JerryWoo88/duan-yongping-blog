@@ -1,5 +1,6 @@
 ---
 title: "iphone 4s"
+aside: false
 ---
 
 # iphone 4s

@@ -1,5 +1,6 @@
 ---
 title: "QQQ"
+aside: false
 ---
 
 # QQQ

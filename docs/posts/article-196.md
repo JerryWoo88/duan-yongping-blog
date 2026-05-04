@@ -1,5 +1,6 @@
 ---
 title: "O maha"
+aside: false
 ---
 
 # O maha

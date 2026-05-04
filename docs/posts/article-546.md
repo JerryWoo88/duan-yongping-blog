@@ -1,5 +1,6 @@
 ---
 title: "CarPlay"
+aside: false
 ---
 
 # CarPlay

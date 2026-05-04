@@ -1,5 +1,6 @@
 ---
 title: "O PPO 手机官方声明"
+aside: false
 ---
 
 # O PPO 手机官方声明

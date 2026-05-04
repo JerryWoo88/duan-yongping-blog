@@ -1,5 +1,6 @@
 ---
 title: "苹果新高"
+aside: false
 ---
 
 # 苹果新高

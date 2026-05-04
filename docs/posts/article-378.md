@@ -1,5 +1,6 @@
 ---
 title: "好习惯"
+aside: false
 ---
 
 # 好习惯

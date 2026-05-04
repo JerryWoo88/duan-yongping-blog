@@ -1,5 +1,6 @@
 ---
 title: "Tiger is coming back!"
+aside: false
 ---
 
 # Tiger is coming back!

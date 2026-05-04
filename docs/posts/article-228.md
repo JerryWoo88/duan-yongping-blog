@@ -1,5 +1,6 @@
 ---
 title: "viber"
+aside: false
 ---
 
 # viber

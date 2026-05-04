@@ -1,5 +1,6 @@
 ---
 title: "tesla"
+aside: false
 ---
 
 # tesla

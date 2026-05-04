@@ -1,5 +1,6 @@
 ---
 title: "clean energy"
+aside: false
 ---
 
 # clean energy

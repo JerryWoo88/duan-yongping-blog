@@ -1,5 +1,6 @@
 ---
 title: "历史"
+aside: false
 ---
 
 # 历史

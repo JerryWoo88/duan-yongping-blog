@@ -1,5 +1,6 @@
 ---
 title: "【引用】2012年4月30日 Ningxia, China 2002 宁夏－30"
+aside: false
 ---
 
 # 【引用】2012年4月30日 Ningxia, China 2002 宁夏－30

@@ -1,5 +1,6 @@
 ---
 title: "海啸"
+aside: false
 ---
 
 # 海啸

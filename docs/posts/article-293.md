@@ -1,5 +1,6 @@
 ---
 title: "ipad与小天才"
+aside: false
 ---
 
 # ipad与小天才

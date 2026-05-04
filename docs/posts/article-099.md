@@ -1,5 +1,6 @@
 ---
 title: "法国"
+aside: false
 ---
 
 # 法国

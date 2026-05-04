@@ -1,5 +1,6 @@
 ---
 title: "IM AX"
+aside: false
 ---
 
 # IM AX

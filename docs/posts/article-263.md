@@ -1,5 +1,6 @@
 ---
 title: "引用 2011年11月2日 最后的香巴拉 Shangri-La 13"
+aside: false
 ---
 
 # 引用 2011年11月2日 最后的香巴拉 Shangri-La 13

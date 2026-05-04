@@ -1,5 +1,6 @@
 ---
 title: "At@ t Pro-Am"
+aside: false
 ---
 
 # At@ t Pro-Am

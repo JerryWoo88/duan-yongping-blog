@@ -1,5 +1,6 @@
 ---
 title: "Life is like a box of chocolates."
+aside: false
 ---
 
 # Life is like a box of chocolates.

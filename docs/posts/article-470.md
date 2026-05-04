@@ -1,5 +1,6 @@
 ---
 title: "tesla又着了一辆！"
+aside: false
 ---
 
 # tesla又着了一辆！

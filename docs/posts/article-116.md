@@ -1,5 +1,6 @@
 ---
 title: "松下"
+aside: false
 ---
 
 # 松下

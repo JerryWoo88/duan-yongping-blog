@@ -1,5 +1,6 @@
 ---
 title: "股市幽默"
+aside: false
 ---
 
 # 股市幽默

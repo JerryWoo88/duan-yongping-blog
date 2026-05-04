@@ -1,5 +1,6 @@
 ---
 title: "我为什么买GE"
+aside: false
 ---
 
 # 我为什么买GE

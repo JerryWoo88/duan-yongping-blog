@@ -1,5 +1,6 @@
 ---
 title: "大师赛"
+aside: false
 ---
 
 # 大师赛

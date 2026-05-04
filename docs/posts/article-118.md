@@ -1,5 +1,6 @@
 ---
 title: "CCTV《对话》：巴菲特和芒格"
+aside: false
 ---
 
 # CCTV《对话》：巴菲特和芒格

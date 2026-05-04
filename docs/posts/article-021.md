@@ -1,5 +1,6 @@
 ---
 title: "我晕！"
+aside: false
 ---
 
 # 我晕！

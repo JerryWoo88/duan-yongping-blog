@@ -1,5 +1,6 @@
 ---
 title: "Yahoo!和阿里巴巴"
+aside: false
 ---
 
 # Yahoo!和阿里巴巴

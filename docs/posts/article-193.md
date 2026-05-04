@@ -1,5 +1,6 @@
 ---
 title: "facetime"
+aside: false
 ---
 
 # facetime

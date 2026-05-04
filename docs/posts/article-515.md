@@ -1,5 +1,6 @@
 ---
 title: "iPad Air 2"
+aside: false
 ---
 
 # iPad Air 2

@@ -1,5 +1,6 @@
 ---
 title: "车祸"
+aside: false
 ---
 
 # 车祸

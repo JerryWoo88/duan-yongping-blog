@@ -1,5 +1,6 @@
 ---
 title: "本分"
+aside: false
 ---
 
 # 本分

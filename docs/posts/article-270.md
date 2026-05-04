@@ -1,5 +1,6 @@
 ---
 title: "M erry Christmas and Happy New Year!"
+aside: false
 ---
 
 # M erry Christmas and Happy New Year!

@@ -1,5 +1,6 @@
 ---
 title: "短消息"
+aside: false
 ---
 
 # 短消息

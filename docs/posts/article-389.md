@@ -1,5 +1,6 @@
 ---
 title: "耐心"
+aside: false
 ---
 
 # 耐心

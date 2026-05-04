@@ -1,5 +1,6 @@
 ---
 title: "苹果CEO库克高盛大会实录"
+aside: false
 ---
 
 # 苹果CEO库克高盛大会实录

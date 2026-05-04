@@ -1,5 +1,6 @@
 ---
 title: "开新帖"
+aside: false
 ---
 
 # 开新帖

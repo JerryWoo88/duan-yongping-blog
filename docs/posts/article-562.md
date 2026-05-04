@@ -1,5 +1,6 @@
 ---
 title: "关于我们"
+aside: false
 ---
 
 # 关于我们

@@ -1,5 +1,6 @@
 ---
 title: "Be Yourself!"
+aside: false
 ---
 
 # Be Yourself!

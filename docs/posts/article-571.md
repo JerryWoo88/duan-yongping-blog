@@ -1,5 +1,6 @@
 ---
 title: "乘风破浪"
+aside: false
 ---
 
 # 乘风破浪

@@ -1,5 +1,6 @@
 ---
 title: "Yahoo"
+aside: false
 ---
 
 # Yahoo

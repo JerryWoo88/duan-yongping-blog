@@ -1,5 +1,6 @@
 ---
 title: "转自朋友的Email"
+aside: false
 ---
 
 # 转自朋友的Email

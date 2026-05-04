@@ -1,5 +1,6 @@
 ---
 title: "iPhone 5和iO S 6"
+aside: false
 ---
 
 # iPhone 5和iO S 6

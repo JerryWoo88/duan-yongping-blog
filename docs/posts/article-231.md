@@ -1,5 +1,6 @@
 ---
 title: "有所不为"
+aside: false
 ---
 
 # 有所不为

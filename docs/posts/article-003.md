@@ -1,5 +1,6 @@
 ---
 title: "W e had the lunch with Buﬀett!"
+aside: false
 ---
 
 # W e had the lunch with Buﬀett!

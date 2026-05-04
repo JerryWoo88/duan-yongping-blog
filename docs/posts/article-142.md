@@ -1,5 +1,6 @@
 ---
 title: "Never Say Never"
+aside: false
 ---
 
 # Never Say Never

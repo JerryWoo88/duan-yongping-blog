@@ -1,5 +1,6 @@
 ---
 title: "运气"
+aside: false
 ---
 
 # 运气

@@ -1,5 +1,6 @@
 ---
 title: "长江电力"
+aside: false
 ---
 
 # 长江电力

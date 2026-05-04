@@ -1,5 +1,6 @@
 ---
 title: "零输豪！"
+aside: false
 ---
 
 # 零输豪！

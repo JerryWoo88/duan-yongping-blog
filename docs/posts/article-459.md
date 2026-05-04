@@ -1,5 +1,6 @@
 ---
 title: "W E?TSLA"
+aside: false
 ---
 
 # W E?TSLA

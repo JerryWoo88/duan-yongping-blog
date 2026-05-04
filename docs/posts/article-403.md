@@ -1,5 +1,6 @@
 ---
 title: "find my friend（查找朋友）"
+aside: false
 ---
 
 # find my friend（查找朋友）

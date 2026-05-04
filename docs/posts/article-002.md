@@ -1,5 +1,6 @@
 ---
 title: "I shot 70 today!"
+aside: false
 ---
 
 # I shot 70 today!

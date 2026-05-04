@@ -1,5 +1,6 @@
 ---
 title: "巴菲特给M BA的讲话"
+aside: false
 ---
 
 # 巴菲特给M BA的讲话

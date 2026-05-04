@@ -1,5 +1,6 @@
 ---
 title: "O maha Again"
+aside: false
 ---
 
 # O maha Again

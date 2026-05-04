@@ -1,5 +1,6 @@
 ---
 title: "You M ust Believe!"
+aside: false
 ---
 
 # You M ust Believe!

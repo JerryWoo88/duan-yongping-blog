@@ -1,5 +1,6 @@
 ---
 title: "泡沫"
+aside: false
 ---
 
 # 泡沫

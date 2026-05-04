@@ -1,5 +1,6 @@
 ---
 title: "(转）W arren Buﬀett Is a Risk Taker, Not a Sleepy Investor"
+aside: false
 ---
 
 # (转）W arren Buﬀett Is a Risk Taker, Not a Sleepy Investor

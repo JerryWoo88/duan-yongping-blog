@@ -1,5 +1,6 @@
 ---
 title: "阿里巴巴"
+aside: false
 ---
 
 # 阿里巴巴

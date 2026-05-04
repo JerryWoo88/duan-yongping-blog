@@ -1,5 +1,6 @@
 ---
 title: "松下 本分"
+aside: false
 ---
 
 # 松下 本分

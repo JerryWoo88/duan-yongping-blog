@@ -1,5 +1,6 @@
 ---
 title: "啰嗦版"
+aside: false
 ---
 
 # 啰嗦版

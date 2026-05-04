@@ -1,5 +1,6 @@
 ---
 title: "【引用】2011年10月21日 最后的香巴拉 Shangri-La 1"
+aside: false
 ---
 
 # 【引用】2011年10月21日 最后的香巴拉 Shangri-La 1

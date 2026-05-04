@@ -1,5 +1,6 @@
 ---
 title: "苹果发布iPhone 5C的真正使命?"
+aside: false
 ---
 
 # 苹果发布iPhone 5C的真正使命?

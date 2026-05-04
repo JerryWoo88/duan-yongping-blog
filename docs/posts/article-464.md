@@ -1,5 +1,6 @@
 ---
 title: "揭秘苹果的iBeacon技术--苹果迟迟不肯支持NFC原来是为了另立山头？"
+aside: false
 ---
 
 # 揭秘苹果的iBeacon技术--苹果迟迟不肯支持NFC原来是为了另立山头？

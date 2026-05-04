@@ -1,5 +1,6 @@
 ---
 title: "iPhone X"
+aside: false
 ---
 
 # iPhone X

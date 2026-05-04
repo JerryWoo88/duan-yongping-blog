@@ -1,5 +1,6 @@
 ---
 title: "O ppo disc player links past and present of music, video"
+aside: false
 ---
 
 # O ppo disc player links past and present of music, video

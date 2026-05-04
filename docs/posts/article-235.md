@@ -1,5 +1,6 @@
 ---
 title: "Denali national park"
+aside: false
 ---
 
 # Denali national park

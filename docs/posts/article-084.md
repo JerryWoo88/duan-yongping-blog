@@ -1,5 +1,6 @@
 ---
 title: "茅台"
+aside: false
 ---
 
 # 茅台

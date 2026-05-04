@@ -1,5 +1,6 @@
 ---
 title: "“It’s about finding your values, and committing to them. It’s about finding your North Star."
+aside: false
 ---
 
 # “It’s about finding your values, and committing to them. It’s about finding your North Star.

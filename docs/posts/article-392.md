@@ -1,5 +1,6 @@
 ---
 title: "巴菲特谈margin"
+aside: false
 ---
 
 # 巴菲特谈margin

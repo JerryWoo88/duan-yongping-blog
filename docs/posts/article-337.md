@@ -1,5 +1,6 @@
 ---
 title: "July 4th"
+aside: false
 ---
 
 # July 4th

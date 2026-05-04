@@ -1,5 +1,6 @@
 ---
 title: "开心一刻"
+aside: false
 ---
 
 # 开心一刻

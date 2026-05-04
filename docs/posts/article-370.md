@@ -1,5 +1,6 @@
 ---
 title: "Buﬀett on CNBC"
+aside: false
 ---
 
 # Buﬀett on CNBC

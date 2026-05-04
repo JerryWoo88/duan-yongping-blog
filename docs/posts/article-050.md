@@ -1,5 +1,6 @@
 ---
 title: "THE SUPERINVESTO RS O F"
+aside: false
 ---
 
 # THE SUPERINVESTO RS O F

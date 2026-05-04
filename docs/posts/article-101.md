@@ -1,5 +1,6 @@
 ---
 title: "巴黎"
+aside: false
 ---
 
 # 巴黎

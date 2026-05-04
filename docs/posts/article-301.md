@@ -1,5 +1,6 @@
 ---
 title: "说明版"
+aside: false
 ---
 
 # 说明版

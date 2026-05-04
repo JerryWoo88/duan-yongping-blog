@@ -1,5 +1,6 @@
 ---
 title: "KD威武！"
+aside: false
 ---
 
 # KD威武！

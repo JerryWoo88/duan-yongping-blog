@@ -1,5 +1,6 @@
 ---
 title: "企业文化"
+aside: false
 ---
 
 # 企业文化

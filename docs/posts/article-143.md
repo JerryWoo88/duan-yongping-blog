@@ -1,5 +1,6 @@
 ---
 title: "Service"
+aside: false
 ---
 
 # Service

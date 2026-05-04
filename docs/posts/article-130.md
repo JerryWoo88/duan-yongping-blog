@@ -1,5 +1,6 @@
 ---
 title: "Happy New Year!"
+aside: false
 ---
 
 # Happy New Year!

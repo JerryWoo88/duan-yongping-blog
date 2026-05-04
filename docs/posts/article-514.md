@@ -1,5 +1,6 @@
 ---
 title: "Apple Pay"
+aside: false
 ---
 
 # Apple Pay

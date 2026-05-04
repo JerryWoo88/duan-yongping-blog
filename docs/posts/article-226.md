@@ -1,5 +1,6 @@
 ---
 title: "安全边际"
+aside: false
 ---
 
 # 安全边际

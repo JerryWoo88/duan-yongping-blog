@@ -1,5 +1,6 @@
 ---
 title: "iPad Pro"
+aside: false
 ---
 
 # iPad Pro

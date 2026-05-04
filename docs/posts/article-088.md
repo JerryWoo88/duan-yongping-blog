@@ -1,5 +1,6 @@
 ---
 title: "格力电器"
+aside: false
 ---
 
 # 格力电器

@@ -1,5 +1,6 @@
 ---
 title: "能力圈"
+aside: false
 ---
 
 # 能力圈

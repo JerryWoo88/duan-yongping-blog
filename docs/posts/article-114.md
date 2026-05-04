@@ -1,5 +1,6 @@
 ---
 title: "麻糍"
+aside: false
 ---
 
 # 麻糍

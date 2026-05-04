@@ -1,5 +1,6 @@
 ---
 title: "城堡"
+aside: false
 ---
 
 # 城堡

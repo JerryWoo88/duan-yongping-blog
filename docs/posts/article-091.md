@@ -1,5 +1,6 @@
 ---
 title: "网易ntes、搜狐sohu、畅游cyou、完美世界pwrd、巨人ga"
+aside: false
 ---
 
 # 网易ntes、搜狐sohu、畅游cyou、完美世界pwrd、巨人ga

@@ -1,5 +1,6 @@
 ---
 title: "未雨绸缪"
+aside: false
 ---
 
 # 未雨绸缪

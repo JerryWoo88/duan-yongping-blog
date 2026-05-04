@@ -1,5 +1,6 @@
 ---
 title: "电影"
+aside: false
 ---
 
 # 电影

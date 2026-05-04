@@ -1,5 +1,6 @@
 ---
 title: "M unger Talk--University of M ichigan"
+aside: false
 ---
 
 # M unger Talk--University of M ichigan
