@@ -403,4 +403,4 @@ iBook，在50多个国家中提供收费的iBook。就云服务等服务而言�
 
 <CommentsLoader src="/comments/article-417.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

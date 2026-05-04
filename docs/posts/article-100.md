@@ -103,4 +103,4 @@ NetJets的过剩产能和债务。
 
 <CommentsLoader src="/comments/article-100.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

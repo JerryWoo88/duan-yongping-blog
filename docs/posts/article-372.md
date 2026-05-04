@@ -117,4 +117,4 @@ http://www.quoteswise.com/warren-buffett-quotes-3.html
 
 <CommentsLoader src="/comments/article-372.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

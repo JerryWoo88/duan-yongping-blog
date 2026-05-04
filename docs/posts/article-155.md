@@ -81,4 +81,4 @@ http://www.sina.com.cn  2011年02月28日 01:25  第一财经日报
 
 <CommentsLoader src="/comments/article-155.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

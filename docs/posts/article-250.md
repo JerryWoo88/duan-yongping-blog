@@ -43,4 +43,4 @@ http://news.cn.yahoo.com/ypen/20111016/640490.html
 
 <CommentsLoader src="/comments/article-250.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

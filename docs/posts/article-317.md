@@ -13,4 +13,4 @@ Bay Bridge and Treasure Island, San Francisco 旧金山湾桥和珍宝岛
 
 <CommentsLoader src="/comments/article-317.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

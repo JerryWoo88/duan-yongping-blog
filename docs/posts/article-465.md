@@ -21,4 +21,4 @@ http://www.leiphone.com/k-two-factors-reveal-apples.html
 
 <CommentsLoader src="/comments/article-465.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

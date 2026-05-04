@@ -131,4 +131,4 @@ To M ake M oney In The M arket  ISBN: 9780743200400 ［十位: 0743200403］  �
 
 <CommentsLoader src="/comments/article-047.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

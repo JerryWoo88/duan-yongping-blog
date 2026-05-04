@@ -517,4 +517,4 @@ GDP和世界500强数量被中国双超，但日本制造依旧以其先进工�
 
 <CommentsLoader src="/comments/article-354.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

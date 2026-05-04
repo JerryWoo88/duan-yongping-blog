@@ -249,4 +249,4 @@ http://www.sina.com.cn  2011年05月27日02:15  金⽺网－新快报
 
 <CommentsLoader src="/comments/article-219.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

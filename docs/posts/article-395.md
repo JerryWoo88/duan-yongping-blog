@@ -134,4 +134,4 @@ http://edu.163.com/12/1108/10/8FPHVRNN00294LCR.html )
 
 <CommentsLoader src="/comments/article-395.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

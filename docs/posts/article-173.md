@@ -45,4 +45,4 @@ M irvish坦言，那或许并不全是海瑟薇主持奥斯卡的功劳，因为
 
 <CommentsLoader src="/comments/article-173.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

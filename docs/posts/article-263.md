@@ -15,4 +15,4 @@ http://liuxinontheroad.blog.163.com/blog/static/18442321220111016231952/
 
 <CommentsLoader src="/comments/article-263.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

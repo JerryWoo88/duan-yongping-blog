@@ -459,4 +459,4 @@ D. 人才“合适性”与“合格性”
 
 <CommentsLoader src="/comments/article-491.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

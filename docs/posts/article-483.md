@@ -226,4 +226,4 @@ XO 酱：大部份主要是由诸多海鲜精华浓缩而成，适用于各项�
 
 <CommentsLoader src="/comments/article-483.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

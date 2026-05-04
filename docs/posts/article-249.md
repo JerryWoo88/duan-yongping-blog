@@ -139,4 +139,4 @@ http://www.sina.com.cn  2011年10月15日 19:19  新浪科技微博
 
 <CommentsLoader src="/comments/article-249.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

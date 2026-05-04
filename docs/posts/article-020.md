@@ -31,4 +31,4 @@ http://finance.sina.com.cn/stock/usstock/comment/20100225/03187452705.shtml
 
 <CommentsLoader src="/comments/article-020.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

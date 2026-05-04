@@ -77,4 +77,4 @@ Ball》，对价值投资的兴趣越来越浓，很想以此为终身事业，�
 
 <CommentsLoader src="/comments/article-006.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

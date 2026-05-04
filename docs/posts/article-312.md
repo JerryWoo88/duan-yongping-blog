@@ -19,4 +19,4 @@ first boss at China Youth Daily. 好奇的学童们围绕着中国著名摄影�
 
 <CommentsLoader src="/comments/article-312.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

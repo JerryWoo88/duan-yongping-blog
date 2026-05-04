@@ -503,4 +503,4 @@ strikes me as insane.”  这里我看到两点：1.平常心地呆在自⼰能�
 
 <CommentsLoader src="/comments/article-329.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

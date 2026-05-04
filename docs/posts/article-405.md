@@ -33,4 +33,4 @@ golf的成绩实际上和别的选手成绩无关，只管打自⼰的球，但�
 
 <CommentsLoader src="/comments/article-405.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

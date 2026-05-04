@@ -35,4 +35,4 @@ iphone 4s发售第一天就跑去排队买了一台，出来时碰上国内某�
 
 <CommentsLoader src="/comments/article-255.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

@@ -303,4 +303,4 @@ A&M （美国的两所大学）的橄榄球比赛，我们的生活没什么不�
 
 <CommentsLoader src="/comments/article-393.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

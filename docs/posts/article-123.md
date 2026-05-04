@@ -1269,4 +1269,4 @@ lectier要等到10月中旬以后才会成熟，而摘下来的梨，还要放�
 
 <CommentsLoader src="/comments/article-123.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

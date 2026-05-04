@@ -421,4 +421,4 @@ C. 假设中国经济继续长期高速增长，人们的购买力也会大幅�
 
 <CommentsLoader src="/comments/article-496.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

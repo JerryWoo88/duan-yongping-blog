@@ -139,4 +139,4 @@ A:我认为是正确的，如果游戏都使外挂，就没有可玩性了。对
 
 <CommentsLoader src="/comments/article-267.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

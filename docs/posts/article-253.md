@@ -189,4 +189,4 @@ imeigu.com　2011-10-17 16:47:25　来源： i美股
 
 <CommentsLoader src="/comments/article-253.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

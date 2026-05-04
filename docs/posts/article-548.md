@@ -95,4 +95,4 @@ CO M PANY》），写得很直接，“如果你觉得iPhone不会像之前那�
 
 <CommentsLoader src="/comments/article-548.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

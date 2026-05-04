@@ -13,4 +13,4 @@ http://www.designboom.com/technology/quant-e-sportlimousine-salt-water-07-21-201
 
 <CommentsLoader src="/comments/article-507.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

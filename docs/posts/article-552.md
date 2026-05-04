@@ -192,4 +192,4 @@ l700万美元。她认识数字，但是不会读，也写不出来。她也不�
 
 <CommentsLoader src="/comments/article-552.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

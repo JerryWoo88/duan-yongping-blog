@@ -83,4 +83,4 @@ mandike 發表評論於 2012-02-02 21:41:54Have reason!GEC2 發表評論於 2012
 
 <CommentsLoader src="/comments/article-283.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

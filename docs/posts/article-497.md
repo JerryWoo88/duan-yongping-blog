@@ -381,4 +381,4 @@ http://news.imeigu.com/a/1302772358006.html 是不是可以理解为苹果的空
 
 <CommentsLoader src="/comments/article-497.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

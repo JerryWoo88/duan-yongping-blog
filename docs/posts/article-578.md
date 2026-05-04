@@ -13,4 +13,4 @@ http://mp.weixin.qq.com/s/t-ZW lR_X5M XUphe5uVJDrw
 
 <CommentsLoader src="/comments/article-578.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

@@ -71,4 +71,4 @@ imeigu.com　2010-08-31 10:52:02　来源：国际金融报
 
 <CommentsLoader src="/comments/article-106.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

@@ -99,4 +99,4 @@ icould用起来就越舒服。那些拿着iphone但不知道icoud的用户要赶
 
 <CommentsLoader src="/comments/article-189.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

@@ -131,4 +131,4 @@ pvid=tc_news&a=31&b=%E6%9D%AD%E5%B7%9E%E6%A5%BC%E7%9B%98%E6%8E%92
 
 <CommentsLoader src="/comments/article-133.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

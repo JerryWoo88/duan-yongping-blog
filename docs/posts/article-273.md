@@ -101,4 +101,4 @@ http://www.sina.com.cn  2012年01月12日01:41  燕赵都市报
 
 <CommentsLoader src="/comments/article-273.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

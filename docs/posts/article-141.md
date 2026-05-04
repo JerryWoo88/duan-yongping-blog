@@ -163,4 +163,4 @@ Android系统首先针对高端手机市场，目前已打入中端市场，未�
 
 <CommentsLoader src="/comments/article-141.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

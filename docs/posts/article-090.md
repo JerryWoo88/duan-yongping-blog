@@ -121,4 +121,4 @@ i美股网站审核后，将在8月12日公布最终获奖结果，获奖名单�
 
 <CommentsLoader src="/comments/article-090.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

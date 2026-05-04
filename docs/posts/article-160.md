@@ -221,4 +221,4 @@ http://my.imeigu.com/blog/show/1967
 
 <CommentsLoader src="/comments/article-160.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

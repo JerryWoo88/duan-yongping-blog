@@ -115,4 +115,4 @@ http://sports.sina.com.cn  2012年02月15日11:02  新浪体育微博
 
 <CommentsLoader src="/comments/article-287.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

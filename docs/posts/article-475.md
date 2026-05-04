@@ -389,4 +389,4 @@ Todd Combs 和Ted W eschler每人管理65亿美，如果他们自⼰运营对冲
 
 <CommentsLoader src="/comments/article-475.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

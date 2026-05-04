@@ -81,4 +81,4 @@ Slide 33    聽君一席話， 省我十本書!
 
 <CommentsLoader src="/comments/article-075.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

@@ -152,4 +152,4 @@ http://www.37ct.com/thread-71007-1-1.html
 
 <CommentsLoader src="/comments/article-419.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

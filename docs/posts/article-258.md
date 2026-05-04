@@ -147,4 +147,4 @@ iPhone的横空出世则震撼了手机产业，对智能手机作出了全新�
 
 <CommentsLoader src="/comments/article-258.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

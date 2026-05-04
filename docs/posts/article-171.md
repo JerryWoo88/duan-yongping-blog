@@ -74,4 +74,4 @@ week, and a week I needed to see.”
 
 <CommentsLoader src="/comments/article-171.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

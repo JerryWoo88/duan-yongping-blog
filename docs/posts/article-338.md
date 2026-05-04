@@ -263,4 +263,4 @@ G2(两国集团)成为国际流行词汇，甚至有“全球领导力东移”�
 
 <CommentsLoader src="/comments/article-338.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

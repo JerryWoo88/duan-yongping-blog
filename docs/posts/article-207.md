@@ -191,4 +191,4 @@ second chance，但唐骏这人早就把他的三十条命全部用完了，我�
 
 <CommentsLoader src="/comments/article-207.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

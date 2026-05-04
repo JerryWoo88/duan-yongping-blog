@@ -69,4 +69,4 @@ PE是什么意思？PE是Private Equity,是私人股权投资基金，不需要�
 
 <CommentsLoader src="/comments/article-308.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

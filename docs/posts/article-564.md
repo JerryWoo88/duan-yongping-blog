@@ -121,4 +121,4 @@ O PPO 以及vivo的CEO 都比我年轻大概10岁，所受的教育程度以及�
 
 <CommentsLoader src="/comments/article-564.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

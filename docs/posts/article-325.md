@@ -196,4 +196,4 @@ M eaningful Relationship.是一个基于使命认同、价值观和理念共识�
 
 <CommentsLoader src="/comments/article-325.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

@@ -69,4 +69,4 @@ http://world.people.com.cn/n/2015/0828/c1002-27529640.html
 
 <CommentsLoader src="/comments/article-543.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

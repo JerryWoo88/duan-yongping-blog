@@ -959,4 +959,4 @@ Charlie，你当时52岁的时候就已经开始了这一个业务。
 
 <CommentsLoader src="/comments/article-576.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

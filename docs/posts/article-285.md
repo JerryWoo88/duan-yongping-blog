@@ -45,4 +45,4 @@ CNN是全美最好的新闻台，他们的焦点新闻有些像我们国内的�
 
 <CommentsLoader src="/comments/article-285.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

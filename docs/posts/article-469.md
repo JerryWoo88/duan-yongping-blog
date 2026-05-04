@@ -45,4 +45,4 @@ in Car，可以控制电话、⾳乐、地图、消息等相关的功能。第�
 
 <CommentsLoader src="/comments/article-469.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

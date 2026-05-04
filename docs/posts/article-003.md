@@ -13,4 +13,4 @@ M r. W . Buffett is a very nice guy. I learned much more than what I expected.
 
 <CommentsLoader src="/comments/article-003.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

@@ -51,4 +51,4 @@ Facebook?微博？yy？陌陌？我看这些公司时偶尔会觉得自⼰已经
 
 <CommentsLoader src="/comments/article-572.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

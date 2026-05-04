@@ -111,4 +111,4 @@ Gastroenterol 2005;100:2324–233
 
 <CommentsLoader src="/comments/article-351.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

@@ -226,4 +226,4 @@ QQ群。这对我们接下来进行志愿者招募宣传提供了更好的方向
 
 <CommentsLoader src="/comments/article-396.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

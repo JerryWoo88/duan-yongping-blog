@@ -23,4 +23,4 @@ tesla又着了一辆，还是在居民区里，这个速度也能着，实在是
 
 <CommentsLoader src="/comments/article-470.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

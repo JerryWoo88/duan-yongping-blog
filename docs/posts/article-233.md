@@ -141,4 +141,4 @@ IPO 价为准)，回报额将不低于20亿美元且不超过60亿美元。
 
 <CommentsLoader src="/comments/article-233.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

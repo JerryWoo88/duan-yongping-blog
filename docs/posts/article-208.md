@@ -155,4 +155,4 @@ iPad订阅了《名利场》杂志，下载了拼字游戏Scrabble，甚至最�
 
 <CommentsLoader src="/comments/article-208.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

@@ -753,4 +753,4 @@ GE掉到10块钱以下时（最低破6块了），我想GE好的时候能赚差�
 
 <CommentsLoader src="/comments/article-112.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

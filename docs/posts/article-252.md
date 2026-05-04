@@ -73,4 +73,4 @@ BW CHINESE中文网专栏作家邱林：中国“吃不起饭者”显然多于�
 
 <CommentsLoader src="/comments/article-252.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

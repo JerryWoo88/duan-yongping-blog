@@ -49,4 +49,4 @@ http://guba.eastmoney.com/look,600016,10504407567.html 大家可以讨论，并�
 
 <CommentsLoader src="/comments/article-343.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

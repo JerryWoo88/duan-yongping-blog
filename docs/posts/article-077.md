@@ -115,4 +115,4 @@ http://news.cnfol.com/100529/101,1591,7776999,00.shtml
 
 <CommentsLoader src="/comments/article-077.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

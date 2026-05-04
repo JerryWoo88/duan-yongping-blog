@@ -158,4 +158,4 @@ http://my.imeigu.com/school (⾖⾖⻰：价值投资到底难在哪里？】via
 
 <CommentsLoader src="/comments/article-236.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

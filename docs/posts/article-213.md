@@ -353,4 +353,4 @@ CEO 会向其董事会报告伯克希尔持有本公司权益后买入了股票�
 
 <CommentsLoader src="/comments/article-213.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

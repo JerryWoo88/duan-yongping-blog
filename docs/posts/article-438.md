@@ -187,4 +187,4 @@ www.wldlifeextra.com,http://www.wildlifeextra.com/go/news/cheetah-iran.html#cr·
 
 <CommentsLoader src="/comments/article-438.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

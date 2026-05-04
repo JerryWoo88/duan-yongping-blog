@@ -474,4 +474,4 @@ http://gideaz.blog.163.com/blog/static/1710371652011412105356264/
 
 <CommentsLoader src="/comments/article-278.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

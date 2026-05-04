@@ -229,4 +229,4 @@ http://img4.cache.netease.com/photo/0001/2012-01-14/t_7NO QH9PN00AN0001.jpg
 
 <CommentsLoader src="/comments/article-276.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

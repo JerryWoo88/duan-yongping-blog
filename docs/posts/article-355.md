@@ -178,4 +178,4 @@ vs 社会主义”、“自由主义 vs 专制主义”等二元对立的⻆度�
 
 <CommentsLoader src="/comments/article-355.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

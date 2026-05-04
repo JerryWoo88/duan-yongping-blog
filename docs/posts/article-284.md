@@ -115,4 +115,4 @@ http://img3.cache.netease.com/photo/0005/2012-02-11/t_7PUSBHBQ0AI90005.jpg
 
 <CommentsLoader src="/comments/article-284.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

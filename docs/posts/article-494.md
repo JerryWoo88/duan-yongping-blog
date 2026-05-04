@@ -393,4 +393,4 @@ CEO 。从更长的⻆度看企业文化更重要，因为一个好的企业文�
 
 <CommentsLoader src="/comments/article-494.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

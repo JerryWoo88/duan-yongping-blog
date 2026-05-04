@@ -281,4 +281,4 @@ http://finance.sina.com.cn/world/mzjj/20140303/094018384568.shtml
 
 <CommentsLoader src="/comments/article-479.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

@@ -21,4 +21,4 @@ http://news.imeigu.com/a/1283087342880.html
 
 <CommentsLoader src="/comments/article-203.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

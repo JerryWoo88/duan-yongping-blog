@@ -159,4 +159,4 @@ Pan-STARRS就是美国军方投资的；3.没有。即使是提前预测出撞�
 
 <CommentsLoader src="/comments/article-426.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

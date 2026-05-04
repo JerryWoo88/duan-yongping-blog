@@ -347,4 +347,4 @@ C ．护城河与企业文化
 
 <CommentsLoader src="/comments/article-495.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

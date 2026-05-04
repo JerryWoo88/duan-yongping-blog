@@ -45,4 +45,4 @@ http://news.163.com/special/chenglongzhajuan/
 
 <CommentsLoader src="/comments/article-107.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

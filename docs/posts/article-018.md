@@ -25,4 +25,4 @@ http://news.sina.com.cn/w/2010-02-18/023419696409.shtml
 
 <CommentsLoader src="/comments/article-018.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

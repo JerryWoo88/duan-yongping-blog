@@ -207,4 +207,4 @@ C2%B7%E5%A1%94%E5%88%A9%E5%8D%9C
 
 <CommentsLoader src="/comments/article-358.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

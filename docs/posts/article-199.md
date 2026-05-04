@@ -57,4 +57,4 @@ imeigu.com　2011-05-18 09:11:37　来源： 赛迪网 原文链接　作者：
 
 <CommentsLoader src="/comments/article-199.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

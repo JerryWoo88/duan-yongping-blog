@@ -27,4 +27,4 @@ http://www.cnr.cn/allnews/201010/t20101025_507217914.html
 
 <CommentsLoader src="/comments/article-120.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

@@ -17,4 +17,4 @@ http://www.umiwi.com/video/detail2480
 
 <CommentsLoader src="/comments/article-115.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

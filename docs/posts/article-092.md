@@ -255,4 +255,4 @@ CEO 看到的不应该是机会，因为机会无处不在，一个CEO 更应该
 
 <CommentsLoader src="/comments/article-092.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

@@ -185,4 +185,4 @@ service.stanford.edu/news/2005...505.html
 
 <CommentsLoader src="/comments/article-245.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

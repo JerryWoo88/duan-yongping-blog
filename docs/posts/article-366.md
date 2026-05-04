@@ -171,4 +171,4 @@ http://xinpingstory.blog.163.com/blog/static/1049497852012354648907/
 
 <CommentsLoader src="/comments/article-366.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

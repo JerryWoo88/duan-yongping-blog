@@ -67,4 +67,4 @@ W atch购买一部iPhone手机，因为Apple W atch需要结合iPhone手机使�
 
 <CommentsLoader src="/comments/article-525.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

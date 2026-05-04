@@ -63,4 +63,4 @@ M edlinePlus 的测试，以一天剩余100卡路里计算，一年下来，你�
 
 <CommentsLoader src="/comments/article-506.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

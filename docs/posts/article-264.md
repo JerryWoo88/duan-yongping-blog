@@ -119,4 +119,4 @@ imeigu.com　2011-10-08 02:56:06　来源： 第一财经日报
 
 <CommentsLoader src="/comments/article-264.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

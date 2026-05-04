@@ -353,4 +353,4 @@ Charlie W i/Frank Quattrone (11)          Kevin Streelman/Jim Crane (3)         
 
 <CommentsLoader src="/comments/article-414.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

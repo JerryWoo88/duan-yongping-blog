@@ -80,4 +80,4 @@ relationships. Read the full disclaimer here.
 
 <CommentsLoader src="/comments/article-181.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

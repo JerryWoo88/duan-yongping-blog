@@ -81,4 +81,4 @@ http://article.pchome.net/content-1337315.html
 
 <CommentsLoader src="/comments/article-222.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

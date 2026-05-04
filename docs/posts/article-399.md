@@ -751,4 +751,4 @@ want to spend the time to do. So you can get a little bit more money if you are 
 
 <CommentsLoader src="/comments/article-399.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

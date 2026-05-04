@@ -163,4 +163,4 @@ iPad。苹果目前关注iPad在企业中的普及，并向销售人员提供更
 
 <CommentsLoader src="/comments/article-305.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

@@ -67,4 +67,4 @@ yahoo的盈利能力能持续吗？和微软的合作会被批吗？我个人的
 
 <CommentsLoader src="/comments/article-009.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

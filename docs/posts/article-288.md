@@ -162,4 +162,4 @@ GEICO 这个例子，乃至于我们所有的投资，我们看的是公司本�
 
 <CommentsLoader src="/comments/article-288.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

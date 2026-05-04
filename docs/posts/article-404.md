@@ -43,4 +43,4 @@ i cloud确实强大，不然三星的人不会回家后用iphone和ipad的。
 
 <CommentsLoader src="/comments/article-404.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

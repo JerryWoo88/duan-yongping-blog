@@ -101,4 +101,4 @@ Ian Robertson称：“创意可通过练习而得到改善，除了要多加留�
 
 <CommentsLoader src="/comments/article-183.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

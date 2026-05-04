@@ -23,4 +23,4 @@ imeigu.com　2011-04-27 10:56:23
 
 <CommentsLoader src="/comments/article-192.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

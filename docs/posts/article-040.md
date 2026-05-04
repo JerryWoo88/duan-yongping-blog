@@ -139,4 +139,4 @@ http://finance.ifeng.com/stock/gmxx/20090912/1228415.shtml
 
 <CommentsLoader src="/comments/article-040.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

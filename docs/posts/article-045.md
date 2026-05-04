@@ -121,4 +121,4 @@ GE是个巨大的公司，我也曾试图想看清楚GE到底都有哪些业务�
 
 <CommentsLoader src="/comments/article-045.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

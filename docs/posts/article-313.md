@@ -401,4 +401,4 @@ Dutch教授清晰简洁的讲授为我们在哈佛大学肯尼迪学院的培训
 
 <CommentsLoader src="/comments/article-313.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

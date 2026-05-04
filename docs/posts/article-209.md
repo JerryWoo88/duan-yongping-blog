@@ -210,4 +210,4 @@ K（知道K为什么是前员工了吧？）说：
 
 <CommentsLoader src="/comments/article-209.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

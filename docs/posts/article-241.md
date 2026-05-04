@@ -69,4 +69,4 @@ http://www.sina.com.cn 2011年09月26日 22:27 新浪财经微博
 
 <CommentsLoader src="/comments/article-241.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

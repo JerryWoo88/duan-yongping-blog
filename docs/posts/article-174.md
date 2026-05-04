@@ -33,4 +33,4 @@ imeigu.com　2011-03-29 03:39:57　来源： 新浪科技 原文链接　作者�
 
 <CommentsLoader src="/comments/article-174.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

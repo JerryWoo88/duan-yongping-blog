@@ -495,4 +495,4 @@ Thanks and have a good weekend! （2013-03-03）
 
 <CommentsLoader src="/comments/article-492.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

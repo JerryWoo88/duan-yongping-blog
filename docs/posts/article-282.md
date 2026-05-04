@@ -79,4 +79,4 @@ iPod，那将是一个巨大的错误。iPod尽管已经不像从前那样具有
 
 <CommentsLoader src="/comments/article-282.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

@@ -19,4 +19,4 @@ http://tech.sina.com.cn/i/2010-03-05/14453907312.shtml
 
 <CommentsLoader src="/comments/article-026.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

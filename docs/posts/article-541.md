@@ -19,4 +19,4 @@ http://wearable.pconline.com.cn/651/6516056.html
 
 <CommentsLoader src="/comments/article-541.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

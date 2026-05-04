@@ -27,4 +27,4 @@ http://en.wikipedia.org/wiki/M ount_M ckinley      我们住的小木屋。     
 
 <CommentsLoader src="/comments/article-235.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

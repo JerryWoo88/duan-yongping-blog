@@ -217,4 +217,4 @@ P.S. 对了，题外话。今天起iPhone 5C港版只卖￥2780，国行￥3280�
 
 <CommentsLoader src="/comments/article-512.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

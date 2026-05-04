@@ -54,4 +54,4 @@ facetime（视频）也是一个很好的功能，在有wifi的前提下用起�
 
 <CommentsLoader src="/comments/article-175.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

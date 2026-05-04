@@ -383,4 +383,4 @@ zeng_zhishan是淘宝网上一个有三钻信誉的卖家，此次筹款活动�
 
 <CommentsLoader src="/comments/article-406.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

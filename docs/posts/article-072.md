@@ -25,4 +25,4 @@ paints-brightening-apf-3533507780.html?x=0&sec=topStories&pos=main&asset=&ccode=
 
 <CommentsLoader src="/comments/article-072.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

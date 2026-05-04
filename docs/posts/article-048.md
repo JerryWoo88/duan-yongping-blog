@@ -119,4 +119,4 @@ Barton Biggs说了，与调整现有组合相比，手头拥有现金，重新�
 
 <CommentsLoader src="/comments/article-048.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

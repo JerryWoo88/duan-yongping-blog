@@ -269,4 +269,4 @@ LTCM 的遭遇再次在我们身上发生。2008年11月，为了抵御撤资浪
 
 <CommentsLoader src="/comments/article-542.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

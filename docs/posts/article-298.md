@@ -15,4 +15,4 @@ http://golf.sina.com.cn/pgatour.html
 
 <CommentsLoader src="/comments/article-298.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

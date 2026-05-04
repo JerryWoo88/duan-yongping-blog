@@ -175,4 +175,4 @@ Haghani，还有两个诺⻉尔经济学奖的获得者，M yron Scholes和Rober
 
 <CommentsLoader src="/comments/article-539.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

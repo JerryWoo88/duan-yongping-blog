@@ -347,4 +347,4 @@ Things Happen）；赢的激情就是要求每个人都主动积极，做事用�
 
 <CommentsLoader src="/comments/article-089.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

@@ -125,4 +125,4 @@ Debt－债务；Liability－负债。巴菲特所说的⼔首搁在方向盘上�
 
 <CommentsLoader src="/comments/article-272.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

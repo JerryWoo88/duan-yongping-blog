@@ -63,4 +63,4 @@ Neptune Investment Holdings 的投资工具提出了这份要约。这一消息�
 
 <CommentsLoader src="/comments/article-218.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

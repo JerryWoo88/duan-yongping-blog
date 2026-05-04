@@ -48,4 +48,4 @@ http://page.china.alibaba.com/shtml/about/ali_group3.shtml
 
 <CommentsLoader src="/comments/article-051.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

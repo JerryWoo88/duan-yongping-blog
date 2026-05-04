@@ -289,4 +289,4 @@ DVD、复读机、电子词典、电话。如果我们非得去做国际大公�
 
 <CommentsLoader src="/comments/article-559.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

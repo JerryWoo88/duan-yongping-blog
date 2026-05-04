@@ -455,4 +455,4 @@ Leo Tolstoy, Anna Karenina“幸福的家庭总是相似的，而不幸的家庭
 
 <CommentsLoader src="/comments/article-489.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

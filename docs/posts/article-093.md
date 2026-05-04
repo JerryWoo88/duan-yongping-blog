@@ -19,4 +19,4 @@ golf有很多地方特别像投资。
 
 <CommentsLoader src="/comments/article-093.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

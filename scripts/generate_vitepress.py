@@ -17,6 +17,7 @@ COMMENTS = PUBLIC / "comments"
 SIDEBAR = DOCS / ".vitepress" / "sidebar.ts"
 TOC = DOCS / "toc.md"
 HOME = DOCS / "index.md"
+SITE_BASE = "/duan-yongping-blog"
 
 
 def md_escape(text: str) -> str:
@@ -31,8 +32,16 @@ def slug_for(article: dict) -> str:
     return f"article-{article['number']:03d}"
 
 
+def site_link(path: str) -> str:
+    return f"{SITE_BASE}{path}"
+
+
 def post_link(article: dict) -> str:
     return f"/posts/{slug_for(article)}"
+
+
+def post_href(article: dict) -> str:
+    return site_link(post_link(article))
 
 
 def split_paragraphs(text: str) -> list[str]:
@@ -99,7 +108,7 @@ def render_post(article: dict) -> str:
         [
             f'<CommentsLoader src="/comments/{slug}.json" />',
             "",
-            '<div class="post-nav"><a href="/toc">返回全部目录</a></div>',
+            f'<div class="post-nav"><a href="{site_link("/toc")}">返回全部目录</a></div>',
             "",
         ]
     )
@@ -111,9 +120,9 @@ def article_card(article: dict) -> str:
         [
             f'<article class="post-card" id="{slug_for(article)}">',
             f'  <div class="post-card-meta">第 {article["number"]} 篇 · {article["date"][:10]}</div>',
-            f'  <h2><a href="{post_link(article)}">{md_escape(article["title"])}</a></h2>',
+            f'  <h2><a href="{post_href(article)}">{md_escape(article["title"])}</a></h2>',
             f'  <p>{summary(article)}</p>',
-            f'  <a class="read-more" href="{post_link(article)}">阅读全文</a>',
+            f'  <a class="read-more" href="{post_href(article)}">阅读全文</a>',
             "</article>",
             "",
         ]

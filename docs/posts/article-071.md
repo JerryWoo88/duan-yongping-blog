@@ -129,4 +129,4 @@ a+b+c+d+e=776.02亿美金。如果以上所有假设条件都成立的话，这�
 
 <CommentsLoader src="/comments/article-071.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

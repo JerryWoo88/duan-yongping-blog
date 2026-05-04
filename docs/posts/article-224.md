@@ -77,4 +77,4 @@ http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=290572659660
 
 <CommentsLoader src="/comments/article-224.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

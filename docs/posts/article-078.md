@@ -77,4 +77,4 @@ http://www.sina.com.cn  2010年06月09日 01:40  新浪科技
 
 <CommentsLoader src="/comments/article-078.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

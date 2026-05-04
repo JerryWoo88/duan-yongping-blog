@@ -244,4 +244,4 @@ Candle）般光彩眩目的公司，它们所谓的“长沟深堑”最终被�
 
 <CommentsLoader src="/comments/article-290.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

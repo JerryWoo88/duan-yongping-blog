@@ -41,4 +41,4 @@ Course)训练。路易斯安那TPC 是新奥尔良精英赛的举办场地
 
 <CommentsLoader src="/comments/article-448.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

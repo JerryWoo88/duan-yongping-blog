@@ -172,4 +172,4 @@ Siri是介于服务器的云端应用技术，真正用到你手机上的硬件�
 
 <CommentsLoader src="/comments/article-248.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

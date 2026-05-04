@@ -91,4 +91,4 @@ http://zjdaily.zjol.com.cn/jrzb/html/2011-06/08/content_885764.htm?div=-1
 
 <CommentsLoader src="/comments/article-225.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

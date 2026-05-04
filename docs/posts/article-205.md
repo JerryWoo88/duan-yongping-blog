@@ -104,4 +104,4 @@ imeigu.com　2011-05-14 03:25:35　来源： i美股 原文链接　作者：钟
 
 <CommentsLoader src="/comments/article-205.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

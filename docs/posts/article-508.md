@@ -19,4 +19,4 @@ __biz=M zA4NDI4O DgwM g==&mid=200272247&idx=1&sn=8e437f6a23a0065bc57b8fb9f547e8
 
 <CommentsLoader src="/comments/article-508.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

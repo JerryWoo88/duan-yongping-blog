@@ -59,4 +59,4 @@ http://www.sina.com.cn  2011年07月06日 01:50  每日经济新闻
 
 <CommentsLoader src="/comments/article-229.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>

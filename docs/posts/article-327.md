@@ -35,4 +35,4 @@ C.M : A great business at a fair price is superior to a fair business at a great
 
 <CommentsLoader src="/comments/article-327.json" />
 
-<div class="post-nav"><a href="/toc">返回全部目录</a></div>
+<div class="post-nav"><a href="/duan-yongping-blog/toc">返回全部目录</a></div>
